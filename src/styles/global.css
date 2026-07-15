@@ -152,12 +152,16 @@ footer {
   color: var(--ink-soft);
   animation: waveEntrance var(--dur-base) var(--ease-out) 0.24s both;
 }
-.hero-tree {
+.hero-figure {
   margin: 2.5rem 0 0;
+  display: block;
+}
+.hero-tree {
   width: 100%;
-  max-width: 720px;
-  border-radius: 20px;
-  animation: waveEntrance var(--dur-base) var(--ease-out) 0.38s both;
+  max-width: 460px;
+  height: auto;
+  border-radius: 6px;
+  display: block;
 }
 @keyframes waveEntrance {
   from { opacity: 0; transform: translateY(16px); }
