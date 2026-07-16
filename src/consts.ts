@@ -5,6 +5,7 @@ export const SITE = {
   description: 'Là où les organisations décident, là où les outils se construisent, là où le roman éclaire de nouveaux possibles.',
   tagline: 'Là où les organisations décident, là où les outils se construisent, là où le',
   lede: 'Ici se croisent la lecture des signaux faibles, l\'architecture des systèmes qui pensent avec nous, et l\'écriture d\'un roman qui explore la même chose autrement : ce qu\'on ne voit pas encore venir.',
+  eyebrow: 'Des Mots, Des Sentiers détournés, Un nouveau réel qui prend Vie',
   url: 'https://carnetvaleriemalaval.netlify.app',
   locale: 'fr',
 };
