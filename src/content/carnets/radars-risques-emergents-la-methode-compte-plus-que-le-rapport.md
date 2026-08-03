@@ -7,11 +7,11 @@ teaser: "Chaque année, un nouveau radar de risques atterrit. La question n'est 
 stub: false
 ---
 
-Deux nouveaux risques font leur entrée dans le radar 2026 du CRO Forum. La concentration du pouvoir technologique. Les aliments ultra-transformés. Deux autres basculent de "horizon lointain" à "déjà observé" : l'intelligence artificielle et la complexité des chaînes d'approvisionnement.
+Chaque printemps, un nouveau rapport de risques émergents atterrit sur les bureaux. Cette année, le CRO Forum a publié son *Emerging Risk Radar* 2026. Le problème, c'est qu'un radar ne montre jamais ce qu'il faudrait vraiment voir : comment transformer une liste générique en décision utile pour son propre registre.
+
+Deux nouveaux risques font leur entrée. La concentration du pouvoir technologique. Les aliments ultra-transformés. Deux autres basculent de "horizon lointain" à "déjà observé" : l'intelligence artificielle et la complexité des chaînes d'approvisionnement.
 
 Le CRO Forum réunit les Chief Risk Officers d'Allianz, AXA, Munich Re, Swiss Re, Generali. Un rapport pensé pour l'assurance. Alors pourquoi un risk manager d'un tout autre secteur devrait-il s'y intéresser ?
-
-Surtout : que faire concrètement d'un tel document une fois qu'on l'a lu ?
 
 ## Au-delà de l'assurance
 
@@ -43,7 +43,7 @@ Un risque générique ne vaut rien tant qu'il n'est pas relié à un actif, un p
 **4. Prioriser selon mon secteur.**
 Un risque classé "élevé" pour l'assurance peut être secondaire chez moi. La hiérarchie du rapport reflète les priorités de ses auteurs, pas les miennes. Reclasser selon ma propre grille de matérialité est l'étape la plus souvent oubliée. Et la plus importante.
 
-## Ce que ça donne
+## Le résultat
 
 Appliquée au radar CRO Forum 2026, cette méthode produit un tableau très différent de la liste brute du rapport. La concentration technologique et les recours collectifs remontent en tête. Matérialité directe, échéance réglementaire datée (décembre 2026). La cybersécurité quantique reste pertinente. Mais avec un horizon et une intensité très différents de ceux de l'assurance.
 
