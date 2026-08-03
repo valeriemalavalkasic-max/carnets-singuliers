@@ -6,7 +6,7 @@ tags:
   - heatmap
   - foresight
   - ironie
-teaser: Un outil né pour un monde qui changeait lentement, utilisé aujourd'hui dans un monde qui ne l'est plus.
+teaser: "La heatmap de gestion des risques rassure, mais le monde bouge plus vite. Voici ce qu'elle ne montre pas et comment cartographier les angles morts."
 ---
 
 La heatmap est née dans un monde où les risques avaient la décence de bouger lentement. On les positionnait sur une grille, on discutait de la couleur, on repartait avec le sentiment agréable d'avoir cartographié l'incertitude. Le problème, c'est que l'incertitude ne s'est jamais sentie cartographiée.

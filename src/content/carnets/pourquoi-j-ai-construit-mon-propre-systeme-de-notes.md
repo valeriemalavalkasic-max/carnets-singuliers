@@ -3,7 +3,7 @@ title: "Pourquoi j'ai construit mon propre système de notes"
 category: hors-piste
 date: 2026-07-16
 tags: [outils, notes, obsidian, methode, markdown]
-teaser: "Trois ans que je n'utilise plus Notion. Trois ans que mes notes vivent dans des fichiers markdown sur mon disque dur. Voici pourquoi."
+teaser: "Mon système de prise de note en markdown avec Obsidian. Pourquoi j'ai quitté Notion pour du texte brut."
 ---
 
 J'ai utilisé Craft pendant quatre ans. Evernote avant cela. Notion pendant six mois. Je n'ai pas englouti des sommes pharaoniques.

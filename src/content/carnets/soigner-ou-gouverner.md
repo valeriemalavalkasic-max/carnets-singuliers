@@ -3,7 +3,7 @@ title: "Soigner ou gouverner"
 category: contrebande
 date: 2026-07-16
 tags: [roman, eva-langevin, prospective, methode]
-teaser: "Trente ans à observer comment les organisations décident. Une question qui n'a jamais trouvé sa réponse dans un rapport. Alors, il a fallu l'écrire."
+teaser: "Trente ans de risk management à observer les organisations. Pourquoi la fiction est devenue ma méthode de prospective."
 ---
 
 Trente ans à observer comment les organisations décident sous pression. De grandes maisons, des cultures fortes et un même point commun : les décisions se prennent dans des pièces fermées, sous des éclairages mauvais, et personne ne prend le temps d'écrire ce qui s'y est vraiment joué.

@@ -7,7 +7,7 @@ tags:
   - ombre
   - actif
   - signal
-teaser: Quand la chaleur devient un risque, l'ombre devient un actif. Et personne ne sait encore qui doit la payer.
+teaser: "Quand le risque climatique transforme l'ombre en actif. La monétisation des signaux faibles en risk management."
 ---
 
 Il y a dix ans, l'ombre était un non-sujet. Un arbre faisait de l'ombre, un bâtiment aussi, et personne ne songeait à mettre un prix dessus. Aujourd'hui, dans les villes où la température dépasse régulièrement les seuils de tolérance physiologique, l'ombre est en train de devenir un actif. Un actif que personne ne sait encore ni mesurer, ni attribuer, ni gouverner.

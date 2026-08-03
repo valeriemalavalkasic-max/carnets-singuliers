@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://carnetvaleriemalaval.netlify.app',
+  site: 'https://valeriemalaval.fr',
   integrations: [sitemap()],
   trailingSlash: 'always',
 });

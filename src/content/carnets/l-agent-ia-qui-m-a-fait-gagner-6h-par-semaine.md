@@ -3,7 +3,7 @@ title: "L'agent IA qui m'a fait gagner 6h par semaine"
 category: hors-piste
 date: 2026-07-16
 tags: [ia, outils, productivite, workflow, hedda]
-teaser: "Un agent IA qui lit mes notes, me rappelle ce que j'ai oublié, et me pose les questions que j'évite. Six heures par semaine, retrouvées. Voici comment."
+teaser: "Un agent IA personnel qui booste ma productivité de 6h par semaine. Comment j'ai construit un workflow IA avec mes notes."
 ---
 
 J'utilise un agent IA. Pas pour le code. Pas pour la génération d'images. Pour réfléchir.

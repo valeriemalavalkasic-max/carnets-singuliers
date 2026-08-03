@@ -2,11 +2,11 @@ export const SITE = {
   name: 'Carnets Singuliers',
   shortName: 'Carnets',
   author: 'Valérie Malaval',
-  description: 'Là où les organisations décident, là où les outils se construisent, là où le roman éclaire de nouveaux possibles.',
+  description: 'Finance, risk management et prospective. Trente ans à observer comment les organisations décident sous pression. Un roman sur la prise de décision sous contrainte, et les outils IA qu\'il faut construire quand la pensée ne suit pas les rails prévus pour elle.',
   tagline: 'Là où les organisations décident, là où les outils se construisent, là où le',
   lede: 'Ici se croisent la lecture des signaux faibles, l\'architecture des systèmes qui pensent avec nous, et l\'écriture d\'un roman qui explore la même chose autrement : ce qu\'on ne voit pas encore venir.',
   eyebrow: 'Des Mots, Des Sentiers détournés, Un nouveau réel qui prend Vie',
-  url: 'https://carnetvaleriemalaval.netlify.app',
+  url: 'https://valeriemalaval.fr',
   locale: 'fr',
 };
 
