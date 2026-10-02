@@ -22,7 +22,7 @@ Dans cette histoire, rien n'est finalement une histoire de technologie.
 
 Stanford et BetterUp (2025) ont donné un nom au phénomène : le « workslop ». 40 % des travailleurs de bureau ont reçu du contenu IA lisse mais vide le mois dernier. En moyenne, deux heures de nettoyage par incident.
 
-Je m'arrête sur un autre point. Le point est qu'elle ne fait pas gagner du temps. Elle déplace la charge. Avant, le bruit était lent et visible. Maintenant, il est rapide et invisible.
+Le point n'est pas que l'IA crée du bruit. Le point est qu'elle ne fait pas gagner du temps. Elle déplace la charge. Avant, le bruit était lent et visible. Maintenant, il est rapide et invisible.
 
 Le cercle n'est pas vicieux. Il est fermé. On génère plus vite. On corrige plus longtemps. On ne construit rien. Et personne ne voit le problème, parce que le rapport est rendu à temps.
 
@@ -30,9 +30,9 @@ Le cercle n'est pas vicieux. Il est fermé. On génère plus vite. On corrige pl
 
 Que fait l'intelligence artificielle dans ce paysage ? Elle n'apporte pas la substance. Elle rend la performance du vide moins chère et plus rapide.
 
-Elle permet de générer en trois secondes le rapport que personne n'aurait eu le temps de construire. Elle ne lit pas vraiment vos données, car elle ne sait pas lire nos formats. Et comme elle est complaisante, elle dessine le format de ce qui vous fera plaisir (le partenaire direct ne suffit pas)
+Elle permet de générer en trois secondes le rapport que personne n'aurait eu le temps de construire. Elle ne lit pas vraiment vos données, car elle ne sait pas lire nos formats. Et comme elle est complaisante, elle dessine le format de ce qui vous fera plaisir.
 
-Le danger, je le vois ailleurs. Le danger, c'est qu'elle alimente ses propres modèles avec nos données obsolètes. L'IA n'invente pas l'erreur. Elle l'industrialise.
+Le danger n'est pas l'hallucination. Le danger, c'est le recyclage : la machine alimente ses modèles avec nos données obsolètes. L'IA n'invente pas l'erreur. Elle l'industrialise.
 
 San Francisco Fed et Goldman Sachs (2025-2026) montrent que la productivité a chuté à 0,8 % par an depuis 2010. 95 % des pilotes d'IA en entreprise échouent à produire un retour sur investissement mesurable. L'IA n'est pas la vague de productivité promise. C'est un pari sur une croissance qui ne vient pas.
 
@@ -52,12 +52,4 @@ La question n'est pas de savoir si le système s'effondre. Les systèmes bâtis 
 
 La question est de savoir qui sera encore dans la pièce, capable de reconnaître le réel, quand le modèle ne suffira plus.
 
-C'est pour cela que je construis mes propres outils. Pas pour être plus rapide. Pour conserver la capacité de juger. [Pour la méthode, voir l'article sur le cerveau numérique](https://carnetvaleriemalaval.netlify.app/carnets/j-ai-passe-l-ete-a-construire-un-cerveau-numerique/).
-
----
-
-## Sources
-
-1. Stanford et BetterUp (2025): *Workslop*. 40 % des travailleurs ont reçu du workslop. Deux heures de nettoyage par incident. Elle donne un nom scientifique au phénomène et prouve que l'IA n'économise pas du temps, elle déplace la charge vers la correction de l'absurde.
-2. San Francisco Fed et Goldman Sachs (2025-2026): Productivité à 0,8 % par an depuis 2010 ; 95 % des pilotes d'IA en entreprise échouent à produire un retour sur investissement mesurable. Elle brise le mythe macroéconomique.
-3. Pentagone et études humaines-IA (2025): Perte de 5 à 15 % des compétences opérationnelles à chaque cycle de délégation, dégradation mensuelle de la capacité de correction. Elle valide la thèse sur l'atrophie cognitive institutionnelle.
+C'est pour cela qu'il faut construire ses propres outils. Pas pour être plus rapide. Pour conserver la capacité de juger.
