@@ -1,59 +1,55 @@
 ---
-title: "Le coût réel d'une requête qui ne sait pas ce qu'elle cherche"
-category: hors-piste
+title: "L'Affaire Orélien : la vraie duperie"
+category: contrebande
 date: 2026-09-15
-tags: [ia, apprentissage, outils, consommation, pilotage]
-teaser: "Un samedi soir, ma courbe de dépenses a pris une forme que je ne lui connaissais pas. 12$. Puis 14$. En deux jours."
+tags: [contre-jour, fiction, ia, roman, ecriture]
+teaser: "Le vide n'était pas inventé par l'IA. Il attendait juste d'être industrialisé. Et le détecteur se trompe sur Victor Hugo."
 ---
 
-Un samedi soir, j'ai ouvert mon tableau de bord. La courbe avait pris une forme que je ne lui connaissais pas. Une bosse. Puis une autre, plus haute. 12$. Puis 14$. En deux jours.
+L'Affaire Orélien. Un auteur écarté du Goncourt. Un compte X. Un détecteur IA qui le condamne. Et au milieu, la vraie duperie.
 
-D'habitude, je sais ce que je dépense. Pas ce week-end-là.
+Le vide n'était pas inventé par la machine. Il attendait juste d'être industrialisé.
 
-## Ce que les graphs m'ont dit
+## Le mythe du slop littéraire
 
-J'ai regardé les trois graphiques côte à côte.
+On nous fait croire que l'IA générative a inventé le workslop littéraire : cette bouillie informationnelle lisse, polie, mais vide de substance. C'est faux. Le vide était déjà là.
 
-**Usage par modèle** : un mur de couleurs. Cin, six modèles empilés sur une même journée. Aucun ne dominait.
+Avant, on appelait cela un « nègre littéraire ». Un assistant invisible. Un atelier. Aujourd'hui, on l'appelle « IA assistée ». Le nom a changé. La relation est la même. Ce qui change, c'est la direction artistique.
 
-**Volume de requêtes** : un pic à près de 900 le 5 septembre.
+Dans mon roman, Eva Langevin ne s'écrit pas seule. Elle s'écrit avec. Avec un agent qui conserve le ton, avec un système de notes qui relie chaque chapitre, avec une mémoire qui sait où vit chaque idée. L'agent donne le verdict. La mémoire donne la trace. Et moi, je donne la direction.
 
-**Tokens** : 45 millions en une journée. Et à côté, le cache : une barre orange énorme, mais aussi une barre grise tout aussi haute. Le cache avait joué. Mais pas assez.
+Donner une personnalité et un objectif à son agent, c'est le rendre plus précis. Pas plus aimable. Plus précis.
 
-## Le diagnostic
+## La direction artistique dans le roman
 
-J'ai compris ce qui s'était passé.
+Quand j'écris, je ne cherche pas une réponse. Je cherche un chemin.
 
-Je n'avais pas piloté. J'avais tiré.
+Mon tableau de bord OpenRouter ressemble parfois à un mur de couleurs. Cinq modèles empilés. Des pics que je ne comprends pas. Et puis, un jour, je comprends. Ce n'est pas le modèle qui échoue. C'est moi qui n'ai pas choisi avant d'écrire.
 
-Un prompt qui ne rendait pas ce que je voulais ? J'ai changé de modèle. Toujours pas ? J'en ai essayé un autre. Le contexte devenait lourd ? J'ai relancé une nouvelle session.
+Le roman ne se construit pas par essais-erreurs. Il se construit par intention. Chaque prompt est un choix. Chaque refus est un choix. Quand Hedda me répond par un verdict rouge, je ne réessaie pas au hasard. Je comprends pourquoi. J'ajuste. Puis j'essaie une fois.
 
-En ingénierie logicielle, il y a un mot pour cela : le *shotgun debugging*. Quand on ne sait pas ce qui ne va pas, on change tout et on espère que quelque chose tombe juste. Ce week-end-là, j'ai fait du shotgun debugging avec des agents.
+Ce n'est pas consommer. C'est piloter.
 
-## L'effet composé
+## Le clin d'œil
 
-Le coût n'est pas le vrai problème. C'est un proxy.
+Le détecteur d'IA qui a condamné Orélien ? Il met Victor Hugo comme ayant utilisé l'IA.
 
-Chaque requête inutile ajoute de la latence. Chaque tentative ratée pollue le contexte, rendant les suivantes moins susceptibles de réussir. Chaque changement de modèle sans raison introduit de la variance qui rend le débogage quasi impossible.
+Le détecteur se trompe. Et dans son erreur, il révèle la vérité : la littérature n'est pas une question de pureté technique. Elle est une question de direction.
 
-Je ne dépensais pas plus. Je dégradais activement la qualité de mes propres résultats. Le cache, que je croyais être mon filet de sécurité, ne sauvait que ce qui était déjà stabilisé. Il ne sauvait pas l'expérimentation erratique. Il la rendait juste un peu moins chère.
+Le vrai sujet n'est pas de savoir si l'IA a écrit. C'est de savoir qui a dirigé l'écriture.
 
-## La discipline
+## La vraie duperie
 
-Les jours qui ont suivi, j'ai fait autre chose.
+La vraie duperie n'est pas que l'auteur a utilisé un outil. C'est que nous continuons à croire que l'écrivain a toujours écrit seul.
 
-J'ai choisi un modèle avant d'écrire le prompt. Pas après l'échec de la tentative précédente. Quand quelque chose ne fonctionnait pas, la réponse n'était plus « réessayer ». C'était « comprendre pourquoi, ajuster, puis essayer une fois ».
+Quand le vrai choc arrivera, la question ne sera pas de savoir si le système s'effondre. Les systèmes bâtis sur le mythe du vide s'effondrent toujours.
 
-Les pics ont disparu. La courbe est redevenue plate. 2$ par jour. 80 requêtes. Chaque requête ajustée. Chaque choix intentionnel.
+La question sera de savoir qui sera encore dans la pièce, capable de diriger, quand le détecteur ne suffira plus.
 
-## Ce qui a changé
+---
 
-Ce qui m'est arrivé ce week-end-là, c'est ce qui arrive à des milliers de personnes en ce moment. La première technologie expérimentale qui sort directement dans les mains du grand public. Avant, il y avait un filtre. Aujourd'hui, c'est l'inverse. Vous payez l'abonnement. Vous apprenez en dépensant.
+## Sources (intégrées dans le corps)
 
-Nous avons passé des années à attendre que les modèles deviennent plus capables. Mais la contrainte a changé de camp.
+Stanford et BetterUp (2025) — *Workslop* : 40 % des travailleurs de bureau ont reçu du contenu IA lisse mais vide. [Lien](https://www.betterup.com/research/workslop)
 
-Le vrai goulot d'étranglement n'est plus le modèle. C'est l'humain dans la boucle. Son jugement. Sa capacité à lire un output et à décider s'il faut itérer ou rediriger. Aucune amélioration de modèle ne se substituera à cela.
-
-La prochaine vague de productivité ne viendra pas d'un nouveau moteur plus rapide. Elle viendra de ceux qui auront appris à ne plus appuyer sur le bouton jusqu'à ce que quelque chose tombe.
-
-Ceux qui auront compris que piloter n'est pas consommer.
+San Francisco Fed et Goldman Sachs (2025-2026) — Productivité : 0,8 % depuis 2010. [Lien](https://www.frbsf.org/economic-research/)
