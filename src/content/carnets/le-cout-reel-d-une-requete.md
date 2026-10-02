@@ -1,7 +1,7 @@
 ---
 title: "Le coût réel d'une requête qui ne sait pas ce qu'elle cherche"
 category: hors-piste
-date: 2026-09-10
+date: 2026-09-15
 tags: [ia, apprentissage, outils, consommation, pilotage]
 teaser: "Un samedi soir, ma courbe de dépenses a pris une forme que je ne lui connaissais pas. 12$. Puis 14$. En deux jours."
 ---
