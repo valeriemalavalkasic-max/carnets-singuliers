@@ -1,5 +1,5 @@
 ---
-title: Planter, tailler, vendanger. [Série Ce qui dure]
+title: Planter, tailler, vendanger.
 category: contre-jour
 date: 2026-06-03
 tags: [serie-ce-qui-dure, regard, long-terme, fondation, identite, ecriture]
@@ -9,8 +9,6 @@ stub: false
 
 # Planter, tailler, vendanger.
 *Pourquoi ces carnets s'appellent Contre-jour*
-
-*Premier texte de la série « Ce qui dure ». Le troisième et dernier est déjà publié : on a commencé par la fin, comme on lit parfois un roman par son dernier chapitre.*
 
 ![Le pas de côté, à contre-jour - silhouette au travail dans la vigne, regard vers l'horizon](/img/fondation.png)
 
