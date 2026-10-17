@@ -70,33 +70,6 @@ Ces maisons ont survécu à la machine à vapeur, au chemin de fer, à l'électr
 
 C'est une hypothèse. Pas un résultat. Mais je n'ai trouvé personne qui l'ait posée.
 
-## La série
-
-Ce texte ouvre une série en trois temps.
-
-- **On n'hérite pas d'une entreprise. On entre dans une maison.** Ce que la parenté, la propriété et le mérite ont à voir avec la durée.
-- **Ce qui dure ne résiste pas. Il choisit ce qui ne bouge pas.
-
----
-
-## Note de série
-
-Ce texte est le deuxième épisode de la série « Ce qui dure ». Le premier, « Planter, tailler, vendanger. », est publié. Le troisième, « On n'hérite pas d'une entreprise. On entre dans une maison. », l'est aussi. On a commencé par la fin, comme on lit parfois un roman par son dernier chapitre.** Le noyau, la prudence, le territoire, la mémoire. Et l'angle mort de toute cette histoire : on n'étudie que les survivants.
-
-L'IA ne demande pas aux vieilles maisons de changer.
-
-Elle leur demande de savoir pourquoi elles n'avaient pas changé.
-
-## Liens de la série
-
-Lire le précédent : [Ce qui dure ne résiste pas. Il choisit ce qui ne bouge pas.
-
----
-
-## Note de série
-
-Ce texte est le deuxième épisode de la série « Ce qui dure ». Le premier, « Planter, tailler, vendanger. », est publié. Le troisième, « On n'hérite pas d'une entreprise. On entre dans une maison. », l'est aussi. On a commencé par la fin, comme on lit parfois un roman par son dernier chapitre.](/carnets/ce-qui-dure-ne-resiste-pas)
-
 ---
 
 ## Sources

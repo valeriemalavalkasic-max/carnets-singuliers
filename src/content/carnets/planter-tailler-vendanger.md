@@ -77,9 +77,3 @@ J'écris aussi pour transmettre, et pour nourrir mes propres connaissances afin 
 Le contre-exemple est déjà là : un constructeur fondé en 578, quarante générations, seize préceptes. Il entre dans le béton après 1955, s'endette dans l'immobilier. En 2006, il perd son indépendance. Il avait la maison. Il avait le geste. Il a cédé sur le noyau et la prudence. Tout le reste n'a pas suffi.
 
 Et pour commencer, une question qui me suit depuis longtemps : comment certaines entreprises traversent-elles deux siècles, quand tant d'autres ne survivent pas à leur fondateur ? Je crois qu'elles ont appris à planter, tailler et vendanger en même temps.
-
----
-
-## Note de série
-
-Ce texte est le premier épisode de la série « Ce qui dure ». Le troisième et dernier, « On n'hérite pas d'une entreprise. On entre dans une maison. », est déjà publié. Le deuxième, « Deux siècles de règles, six mois de modèles », est à paraître. On a commencé par la fin, comme on lit parfois un roman par son dernier chapitre.
