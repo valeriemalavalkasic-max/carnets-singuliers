@@ -1,5 +1,5 @@
 ---
-title: "[Eaux profondes] On n'hérite pas d'une entreprise. On entre dans une maison."
+title: "On n'hérite pas d'une entreprise. On entre dans une maison."
 category: contre-jour
 date: 2026-10-17
 tags: [longevite, succession, transmission, gouvernance, serie-ce-qui-dure]
@@ -83,7 +83,7 @@ Ces maisons ont su adopter, élaguer, filtrer. Elles n'ont jamais eu à choisir 
 
 Le prochain texte quitte la famille pour l'entreprise elle-même. Ce qui ne bouge jamais, et ce qui bouge tout le temps.
 
-Lire le suivant : [[ce-qui-dure-ne-resiste-pas|[Eaux profondes] Ce qui dure ne résiste pas. Il choisit ce qui ne bouge pas.]]
+Lire le suivant : [[ce-qui-dure-ne-resiste-pas|Ce qui dure ne résiste pas. Il choisit ce qui ne bouge pas.]]
 
 On ne fait pas durer une famille. On fait durer une règle qui survit à la famille.
 

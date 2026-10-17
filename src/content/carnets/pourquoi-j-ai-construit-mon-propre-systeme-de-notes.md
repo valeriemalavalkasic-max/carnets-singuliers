@@ -1,7 +1,7 @@
 ---
 title: "Pourquoi j'ai construit mon propre système de notes"
 category: hors-piste
-date: 2026-07-16
+date: 2026-07-05
 tags: [outils, notes, obsidian, methode, markdown]
 teaser: "Mon système de prise de note en markdown avec Obsidian. Pourquoi j'ai quitté Notion pour du texte brut."
 ---

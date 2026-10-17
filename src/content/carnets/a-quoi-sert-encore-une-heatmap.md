@@ -1,7 +1,7 @@
 ---
 title: À quoi sert encore une heatmap ?
 category: contre-jour
-date: 2026-07-05
+date: 2026-07-16
 tags:
   - heatmap
   - foresight

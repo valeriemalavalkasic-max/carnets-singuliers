@@ -8,7 +8,7 @@ stub: false
 ---
 
 # Planter, tailler, vendanger.
-*[Série Ce qui dure - Épisode 1/3] Pourquoi ces carnets s'appellent Contre-jour*
+*Pourquoi ces carnets s'appellent Contre-jour*
 
 ![Le pas de côté, à contre-jour - silhouette au travail dans la vigne, regard vers l'horizon](/img/fondation.png)
 

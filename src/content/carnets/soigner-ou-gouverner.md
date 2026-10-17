@@ -1,7 +1,7 @@
 ---
 title: "Soigner ou gouverner"
 category: contrebande
-date: 2026-07-16
+date: 2026-06-28
 tags: [roman, eva-langevin, prospective, methode]
 teaser: "Trente ans de risk management à observer les organisations. Pourquoi la fiction est devenue ma méthode de prospective."
 ---
