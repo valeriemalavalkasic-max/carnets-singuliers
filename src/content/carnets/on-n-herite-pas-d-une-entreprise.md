@@ -1,5 +1,5 @@
 ---
-title: "On n'hérite pas d'une entreprise. On entre dans une maison."
+title: "On n'hérite pas d'une entreprise. On entre dans une maison. [Série Ce qui dure]"
 category: contre-jour
 date: 2026-10-17
 tags: [longevite, succession, transmission, gouvernance, serie-ce-qui-dure]
@@ -13,7 +13,7 @@ Trois siècles plus tard, l'entreprise appartient toujours à la famille.
 
 On raconte souvent ces histoires comme des histoires de sang. Ce sont des histoires de règles.
 
-*Deuxième texte de la série « Ce qui dure ».*
+*Troisième et dernier texte de la série « Ce qui dure ». On a commencé par la fin, comme on lit parfois un roman par son dernier chapitre.*
 
 ## La famille est une fiction utile
 
@@ -88,6 +88,12 @@ Lire le suivant : [[ce-qui-dure-ne-resiste-pas|Ce qui dure ne résiste pas. Il c
 On ne fait pas durer une famille. On fait durer une règle qui survit à la famille.
 
 ---
+
+---
+
+## Note de série
+
+Ce texte est le troisième et dernier épisode de la série « Ce qui dure ». Les deux premiers sont : « Planter, tailler, vendanger. » (fondation, publié le3 juin2026) et « Deux siècles de règles, six mois de modèles » (à paraître). On a commencé par la fin, comme on lit parfois un roman par son dernier chapitre.
 
 ## Sources
 
