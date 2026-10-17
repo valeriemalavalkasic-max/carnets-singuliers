@@ -77,12 +77,3 @@ J'écris aussi pour transmettre, et pour nourrir mes propres connaissances afin 
 Le contre-exemple est déjà là : un constructeur fondé en 578, quarante générations, seize préceptes. Il entre dans le béton après 1955, s'endette dans l'immobilier. En 2006, il perd son indépendance. Il avait la maison. Il avait le geste. Il a cédé sur le noyau et la prudence. Tout le reste n'a pas suffi.
 
 Et pour commencer, une question qui me suit depuis longtemps : comment certaines entreprises traversent-elles deux siècles, quand tant d'autres ne survivent pas à leur fondateur ? Je crois qu'elles ont appris à planter, tailler et vendanger en même temps.
-
----
-
-## Notes de relecture (avant publication)
-
-- Image de couverture (`/img/fondation.png`) : silhouette au travail dans la vigne, regard vers l'horizon, contre-jour. À placer dans le dossier `library/carnets-singuliers/img/`.
-- Date anti-date signée : `2026-06-03` (dernière autorisée, `Conventions.md` - série profondeur).
-- Série : `ce-qui-dure` (label supprimé - signal dans le titre : `[Série Ce qui dure - Épisode X/Y]` et tag `serie-ce-qui-dure`).
-- Statut : `draft-final-en-relecture`. Quand tu valides, copier dans `src/content/carnets/` du site.
