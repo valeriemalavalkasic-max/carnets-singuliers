@@ -16,7 +16,7 @@ Un rapport peut dire : "nous avons choisi l'option B". Il ne peut pas dire : "le
 
 Un rapport peut dire : "scénario prospectif à 5 ans". Il ne peut pas dire : "ce scénario est celui qu'on a envie de voir, pas celui qu'on regarde en face".
 
-Ce n'est pas un problème de méthode. Les méthodes sont bonnes. C'est un problème de format. Le format ne laisse pas passer certaines choses. Pas par interdiction. Par inconfort.
+Les méthodes sont bonnes. Le vrai obstacle est le format. Le format ne laisse pas passer certaines choses. Pas par interdiction. Par inconfort.
 
 ## La question qui ne trouvait pas sa réponse
 
@@ -38,7 +38,7 @@ Eva Langevin, l'héroïne, n'existe pas. Et pourtant, elle pense déjà ce qu'on
 
 Les deux sont nobles. Les deux sont nécessaires. Les deux sont, en pratique, presque opposés.
 
-Eva va devoir choisir. Et ce qui m'intéresse, ce n'est pas ce qu'elle va choisir. C'est comment elle va le choisir. C'est ce qui se passe dans sa tête, dans son corps, dans ses nuits blanches, à mesure que l'urgence monte.
+Eva va devoir choisir. Et ce qui m'intéresse, c'est comment elle va le choisir, pas ce qu'elle va choisir. C'est ce qui se passe dans sa tête, dans son corps, dans ses nuits blanches, à mesure que l'urgence monte.
 
 ## Ce que le roman va chercher
 
@@ -50,4 +50,4 @@ Si vous travaillez dans des organisations qui décident, vous reconnaîtrez quel
 
 C'est par là que le réel arrive. Pas par les rapports. Pas par les matrices. Par les histoires qu'on se raconte, et qui finissent par devenir vraies.
 
-Les premiers chapitres seront publiés en Novembre dans ses carnets. Car je peux décider où et comment je partage cette histoire.
+Les premiers chapitres seront publiés en novembre dans ces carnets. Car je peux décider où et comment je partage cette histoire.

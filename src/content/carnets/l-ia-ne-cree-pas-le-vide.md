@@ -32,15 +32,15 @@ Que fait l'intelligence artificielle dans ce paysage ? Elle n'apporte pas la sub
 
 Elle permet de générer en trois secondes le rapport que personne n'aurait eu le temps de construire. Elle ne lit pas vraiment vos données, car elle ne sait pas lire nos formats. Et comme elle est complaisante, elle dessine le format de ce qui vous fera plaisir.
 
-Le danger n'est pas l'hallucination. Le danger, c'est le recyclage : la machine alimente ses modèles avec nos données obsolètes. L'IA n'invente pas l'erreur. Elle l'industrialise.
+Le danger ne vient pas de l'hallucination. Il vient du recyclage : la machine alimente ses modèles avec nos données obsolètes. L'IA n'invente pas l'erreur. Elle l'industrialise.
 
-San Francisco Fed et Goldman Sachs (2025-2026) montrent que la productivité a chuté à 0,8 % par an depuis 2010. 95 % des pilotes d'IA en entreprise échouent à produire un retour sur investissement mesurable. L'IA n'est pas la vague de productivité promise. C'est un pari sur une croissance qui ne vient pas.
+San Francisco Fed et Goldman Sachs (2025-2026) montrent que la productivité a chuté à 0,8 % par an depuis 2010. 95 % des pilotes d'IA en entreprise échouent à produire un retour sur investissement mesurable. L'IA ne tient pas la promesse de productivité. Elle parie sur une croissance qui ne vient pas.
 
 ## Rien à transmettre
 
 Les recherches sur l'apprentissage organisationnel (Pentagone, 2025) montrent une perte de 5 à 15 % des compétences opérationnelles à chaque cycle de délégation. Et une dégradation mensuelle de la capacité humaine à corriger les décisions de l'IA.
 
-Ce n'est pas juste un problème de fichiers. C'est une amnésie institutionnelle mesurable.
+Au-delà d'un problème de fichiers, c'est une amnésie institutionnelle mesurable.
 
 Une organisation qui ne sait pas ce qu'elle sait ne peut pas innover. Elle ne peut que répéter. Il n'y a plus de socle de savoir à transmettre. Plus de fondation pour croître. Juste une course pour remplir des templates avec du bruit généré.
 

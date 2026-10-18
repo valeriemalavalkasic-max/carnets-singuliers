@@ -3,7 +3,7 @@ title: "Nous avons numérisé nos données, pas notre savoir"
 category: contre-jour
 date: 2026-10-08
 tags: [savoir-tacite, agentique, workslop, boucle, moral-crumple-zone, contrat-social]
-teaser: "Le problème n'est pas la numérisation. C'est ce que l'agent lit quand le savoir n'est plus là. La boucle transforme le vide en vérité, plus vite que personne ne le voit."
+teaser: "La numérisation fonctionne. Le vide naît dans ce que l'agent lit quand le savoir n'est plus là. La boucle transforme le vide en vérité, plus vite que personne ne le voit."
 ---
 
 Un tableur de référence. Trois copies dans trois dossiers. Une colonne « devise » vide depuis toujours, parce que tout le monde sait que c'est en euros. Un sigle que personne ne sait plus développer, mais que tout le monde emploie. Et une personne, une seule, qui sait quelle version fait foi.
@@ -52,13 +52,13 @@ On achète une technologie. On hérite d'une réorganisation.
 
 ## Le contrat qu'on n'a pas écrit
 
-Le problème n'est pas logiciel. C'est un contrat social à renégocier.
+En fond, il s'agit d'un contrat social à renégocier, pas d'un problème logiciel.
 
 Pour la première fois, on demande aux gens d'installer, de nourrir et d'améliorer un outil qu'ils soupçonnent d'être leur remplaçant. Aucun manuel ne couvre ça.
 
 Le salarié ne défend pas sa corvée. Personne n'aime recopier des lignes sur un tableur chaque vendredi après-midi. Il défend sa place. Et tant que personne ne lui a dit ce qu'il devient après l'automatisation, freiner est sa meilleure option. Psychologiquement, c'est parfaitement humain.
 
-En juillet 2026, un rapport note que près d'un tiers des travailleurs admettent saboter discrètement l'IA de leur entreprise. Et que des salaires plus bas expliquent une partie de cette résistance. Le contrat n'est pas une option. C'est la condition.
+En juillet 2026, un rapport note que près d'un tiers des travailleurs admettent saboter discrètement l'IA de leur entreprise. Et que des salaires plus bas expliquent une partie de cette résistance. Le contrat est la condition, pas une option.
 
 La formule d'engagement est simple. « Je ne touche pas à votre jugement ni à votre contrat. Je vous débarrasse simplement de ce vendredi après-midi à recopier des lignes sur un tableur Excel. » Quand le contrat distinguera la corvée de la personne, la résistance tombera d'elle-même.
 
@@ -78,7 +78,7 @@ La tentation sera de lancer un grand chantier de nettoyage. Un projet, un budget
 
 Le savoir ne se nettoie pas une fois. Il se périme. Une règle change, un référent part, une version en remplace une autre sans prévenir.
 
-Cet été, j'ai construit mon propre cerveau numérique. Ce qui tient n'est pas l'outil. C'est la discipline : une note, une définition, une source, quelqu'un qui en répond. Et une relecture régulière, même quand rien ne presse.
+Cet été, j'ai construit mon propre cerveau numérique. Ce qui tient, c'est la discipline, pas l'outil : une note, une définition, une source, quelqu'un qui en répond. Et une relecture régulière, même quand rien ne presse.
 
 À l'échelle d'une personne, c'est une habitude. À l'échelle d'une entreprise, c'est une question de gouvernance. Qui possède ce savoir. Qui le tient à jour. Qui a le droit de dire que la version d'hier ne vaut plus.
 

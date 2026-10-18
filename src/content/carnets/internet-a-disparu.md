@@ -8,7 +8,7 @@ teaser: "Signaux faibles et prospective : quand 68% des recherches Google ne mè
 
 68%. C'est la part des recherches Google qui se terminent sans un seul clic. Aux États-Unis, sur les quatre premiers mois de 2026. En 2024, c'était 60%. En 2019, 49%. La courbe ne ralentit pas. Elle accélère.
 
-On n'a jamais eu autant de moyens de publier : du texte, de l'image, de la vidéo, du code. Et jamais si peu de chances d'être trouvé. Ce n'est pas un paradoxe. C'est un renversement.
+On n'a jamais eu autant de moyens de publier : du texte, de l'image, de la vidéo, du code. Et jamais si peu de chances d'être trouvé. C'est un renversement, pas un paradoxe.
 
 Google résume désormais l'article que vous alliez lire, et vous propose le lien comme on tend un reçu. Les aperçus générés par IA couvrent une recherche sur cinq. Quand ils apparaissent, le clic vers un site chute de 60%. Les éditeurs l'ont compris : perdre Google, c'est perdre le trafic qui les faisait vivre.
 
@@ -46,9 +46,9 @@ L'idée qu'une entreprise entièrement pilotée par des agents devienne la norme
 
 Je n'ai jamais voulu construire une audience. Une audience, on la perd quand l'algorithme change. Une communauté, elle, revient parce qu'elle a une raison de revenir.
 
-Ce qui devient rare aujourd'hui, ce n'est pas la capacité de produire. C'est la capacité d'être trouvé. Et ce qui fait qu'on vous trouve, ce n'est plus un moteur. C'est une culture.
+La rareté change de camp : elle n'est plus dans la production, elle est dans la capacité d'être trouvé. Et ce qui fait qu'on vous trouve, ce n'est plus un moteur. C'est une culture.
 
-La visibilité se négocie. La présence se construit. Ce qui disparaît en ce moment, ce n'est pas internet. C'est l'idée qu'on pouvait s'y faire trouver sans effort.
+La visibilité se négocie. La présence se construit. Ce qui disparaît en ce moment, c'est l'idée qu'on pouvait s'y faire trouver sans effort. Pas internet lui-même.
 
 ---
 

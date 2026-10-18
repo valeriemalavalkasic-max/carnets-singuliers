@@ -40,7 +40,7 @@ Vendanger, c'est le présent pur. Tout le monde est là, en même temps, pour qu
 
 Les organisations vivent les trois. Elles ont besoin de quelqu'un qui plante, de quelqu'un qui taille, et de tous pour vendanger. Le malentendu arrive quand on demande à celui qui plante de parler la langue des vendanges. Ou quand on lui reproche de regarder la colline d'en face pendant qu'on remplit les cagettes.
 
-Je suis de ceux qui plantent. Ce n'est pas un choix stratégique, c'est la façon dont mon regard se pose. Je vois d'abord la forme d'ensemble, ce qui arrive, ce que le rang deviendra. Les détails viennent après.
+Je suis de ceux qui plantent. C'est la façon dont mon regard se pose, sans décision stratégique. Je vois d'abord la forme d'ensemble, ce qui arrive, ce que le rang deviendra. Les détails viennent après.
 
 ## Pourquoi à contre-jour
 
@@ -52,17 +52,17 @@ C'est ce que ces carnets essaient de faire. Regarder vers la lumière, là d'où
 
 Je suis singulière, et j'ai appris à aimer ça. Sans plus.
 
-Ce n'est pas non plus une supériorité. Celui qui plante ne vaut pas plus que celui qui vendange : sans les vendanges, la vigne plantée ne sert à rien. Et celui qui regarde loin a ses propres angles morts. À force de fixer l'horizon, on peut rater la pierre devant soi. Voir loin n'est utile que si quelqu'un vous contredit de temps en temps.
+Ce n'est pas une supériorité. Celui qui plante ne vaut pas plus que celui qui vendange : sans les vendanges, la vigne plantée ne sert à rien. Et celui qui regarde loin a ses propres angles morts. À force de fixer l'horizon, on peut rater la pierre devant soi. Voir loin n'est utile que si quelqu'un vous contredit de temps en temps.
 
-Regarder le temps long, ce n'est pas avoir raison. Ce n'est pas être juste. C'est juste ralentir. Faire un pas de côté, le temps de se demander ce que cette décision deviendra dans dix ans. Le vigneron ne sait pas mieux que les autres. Il a simplement l'habitude d'attendre.
+Regarder le temps long revient à ralentir. Ni à avoir raison, ni à être juste. Faire un pas de côté, le temps de se demander ce que cette décision deviendra dans dix ans. Le vigneron ne sait pas mieux que les autres. Il a simplement l'habitude d'attendre.
 
 ## Ce que je cherche à donner
 
-Dans mon métier, montrer globalement ce qui ne voit pas encore. Les signaux faibles avant qu'ils aient un nom. La forme d'ensemble avant le détail.
+Dans mon métier, montrer globalement ce qui ne se voit pas encore. Les signaux faibles avant qu'ils aient un nom. La forme d'ensemble avant le détail.
 
-Le plus difficile n'est pas de voir. C'est de rendre lisible une intuition à trente ans dans une décision d'aujourd'hui.
+Voir est le plus facile. Le vrai travail est de rendre lisible une intuition à trente ans dans une décision d'aujourd'hui.
 
-Transformer une intuition à trente ans en une décision qu'on peut prendre cet hiver. Rendre le lointain assez proche pour qu'il entre dans une réunion. Rapprocher celui qui plante, celui qui taille et ceux qui vendangent, pour qu'ils travaillent sur la même vigne.
+La traduire en choix concret, celui qu'on peut prendre cet hiver. Rendre le lointain assez proche pour qu'il entre dans une réunion. Rapprocher celui qui plante, celui qui taille et ceux qui vendangent, pour qu'ils travaillent sur la même vigne.
 
 C'est ce que j'essaie d'offrir autour de moi. Pas demander aux autres de voir aussi loin. Leur offrir ce pas de côté, ce moment de lenteur où une décision peut encore changer de forme.
 

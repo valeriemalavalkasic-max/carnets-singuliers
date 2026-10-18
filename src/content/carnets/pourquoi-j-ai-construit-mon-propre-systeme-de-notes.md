@@ -16,7 +16,7 @@ J'ai fini par comprendre que mes notes ne sont pas des fichiers. Elles sont de l
 
 ## Ce que j'utilise maintenant
 
-Mes notes vivent dans Obsidian. Mais l'important, ce n'est pas Obsidian. L'important, c'est que derrière, ce sont des fichiers `.md` sur mon disque dur. Pas un format propriétaire. Pas un export qui perd la moitié des choses. Du texte brut.
+Mes notes vivent dans Obsidian. Mais l'important est ailleurs : ce sont des fichiers `.md` sur mon disque dur. Pas un format propriétaire. Pas un export qui perd la moitié des choses. Du texte brut.
 
 Du texte, je peux le lire avec n'importe quoi. N'importe quel éditeur. N'importe quel système d'exploitation. Dans vingt ans. Dans cinquante ans.
 

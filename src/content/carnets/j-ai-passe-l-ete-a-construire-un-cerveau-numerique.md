@@ -46,7 +46,7 @@ Obsidian est le cerveau. Pas le tiroir. Le lieu où tout vit, se lie, se retrouv
 
 Quand j'écris un chapitre du roman, je note un passage. Quand je prépare un briefing sur le market access, je relie le document au travail en cours. Quand je découvre une erreur dans un score, je signe la correction dans le registre.
 
-Le cerveau n'est pas le dépôt. C'est la capacité à retrouver. Quand tu demandes où vit une idée, il te donne un parcours. Pas un chemin de fichier. Un parcours : la source, le travail en cours, la note finale, le lien vers le roman.
+Le cerveau tient dans la capacité à retrouver, pas dans le dépôt. Quand tu demandes où vit une idée, il te donne un parcours. Pas un chemin de fichier. Un parcours : la source, le travail en cours, la note finale, le lien vers le roman.
 
 Chaque document est un ingrédient. Chaque lien est une recette. Le MOC est le livre. Et la mémoire, c'est savoir quel plat tu peux préparer avec ce que tu as sous la main.
 

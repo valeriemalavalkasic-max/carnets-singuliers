@@ -39,7 +39,7 @@ Trois choses ne se délèguent pas.
 
 **Décider dans l'incertitude.** Un modèle rédige une analyse de risque solide, croise les sources, pointe les incohérences. Je m'en sers régulièrement. Mais décider d'alerter un comité de direction sur un sujet inconfortable, trancher entre deux scénarios également défendables, porter une conclusion impopulaire devant un board. Cela reste un acte humain. Engagé. Qui ne se sous-traite pas.
 
-**Relier l'irrelie.** L'assistance cognitive répond bien à une question posée. Elle ne devine pas qu'il fallait rapprocher deux domaines que personne n'avait pensé à connecter. Cette capacité se cultive par une curiosité large. Pas par une spécialisation étroite.
+**Relier l'irrelié.** L'assistance cognitive répond bien à une question posée. Elle ne devine pas qu'il fallait rapprocher deux domaines que personne n'avait pensé à connecter. Cette capacité se cultive par une curiosité large. Pas par une spécialisation étroite.
 
 **Être présent.** Accueillir, rassurer, convaincre, négocier. Tout cela suppose une présence que la meilleure des IA ne remplace pas. Elle peut tout au plus la préparer.
 
