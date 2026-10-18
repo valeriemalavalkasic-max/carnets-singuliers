@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preview - Nouveau design Carnets</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@300;400;500&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --paper: #f2f3ee;
+            --ink: #1b2320;
+            --ink-soft: #4b534e;
+            --ink-faint: #7b837c;
+            --rule: #cbcec2;
+            --contre-jour: #2b4257;
+            --contre-jour-soft: #dce3e9;
+            --hors-piste: #8c6a3f;
+            --hors-piste-soft: #ebe2d2;
+            --contrebande: #2f5c4c;
+            --contrebande-soft: #dce7e1;
+            --accent: var(--contre-jour);
+            --accent-soft: var(--contre-jour-soft);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Newsreader', serif;
+            font-size: 18px;
+            line-height: 1.6;
+            color: var(--ink);
+            background: var(--paper);
+            padding: 2rem 1rem;
+        }
+
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+        }
+
+        /* Objet témoin */
+        .temoin {
+            font-size: 1.25rem;
+            line-height: 1.5;
+            margin-bottom: 1.5rem;
+            max-width: 90%;
+        }
+
+        .temoin p {
+            margin-bottom: 1rem;
+        }
+
+        /* Ligne de série */
+        .serie {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--accent);
+            margin-bottom: 2rem;
+            font-style: normal;
+        }
+
+        /* Titres */
+        h2 {
+            font-family: 'IBM Plex Sans', sans-serif;
+            font-size: 1.1rem;
+            font-weight: 500;
+            margin-top: 2.5rem;
+            margin-bottom: 1rem;
+            color: var(--ink);
+        }
+
+        /* Encadré Angle mort */
+        .angle {
+            background: var(--accent-soft);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-left: 3px solid var(--accent);
+        }
+
+        .angle-label {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--accent);
+            display: block;
+            margin-bottom: 0.75rem;
+        }
+
+        .angle p {
+            font-size: 0.95rem;
+            line-height: 1.55;
+        }
+
+        /* Exergue */
+        .exergue {
+            border-top: 2px solid var(--ink);
+            border-bottom: 1px solid var(--ink);
+            padding: 1.25rem 0;
+            margin: 2rem 0;
+            font-size: 1.05rem;
+            line-height: 1.5;
+        }
+
+        .exergue strong:first-child {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--accent);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        /* Texte courant */
+        p {
+            margin-bottom: 1rem;
+        }
+
+        /* Renvoi théorique */
+        .lecture {
+            font-style: italic;
+            color: var(--accent);
+            display: block;
+            margin: 1.5rem 0;
+        }
+
+        /* Sources */
+        .sources-titre {
+            font-family: 'IBM Plex Sans', sans-serif;
+            font-size: 1rem;
+            margin-top: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-family: 'IBM Plex Sans', sans-serif;
+            font-size: 0.85rem;
+            margin-top: 1rem;
+        }
+
+        th {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            text-align: left;
+            padding: 0.5rem 0;
+            border-bottom: 1px solid var(--rule);
+            color: var(--ink-soft);
+        }
+
+        td {
+            padding: 0.5rem 0;
+            border-bottom: 1px solid var(--rule);
+            vertical-align: top;
+        }
+
+        td:first-child {
+            width: 30%;
+            padding-right: 1rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 480px) {
+            body {
+                font-size: 16px;
+                padding: 1.5rem 1rem;
+            }
+            
+            .temoin {
+                font-size: 1.15rem;
+            }
+            
+            .angle {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body data-rubrique="contre-jour">
+    <div class="container">
+        <!-- Objet témoin -->
+        <div class="temoin">
+            <p>Ise, mai 2025. Dans une forêt du centre du Japon, on abat les premiers cyprès du 63e cycle. Dans huit ans, le grand sanctuaire sera reconstruit à l'identique, à côté de l'ancien. Puis l'ancien sera démonté.</p>
+            
+            <p>On fait cela tous les vingt ans depuis 690.</p>
+            
+            <p>La forme ne change pas. La matière change entièrement. Et c'est pour cela que le sanctuaire dure.</p>
+        </div>
+
+        <!-- Ligne de série -->
+        <p class="serie">Troisième texte de la série « Ce qui dure »</p>
+
+        <!-- Contenu -->
+        <h2>Un noyau fixe, tout le reste mobile</h2>
+        
+        <p>Les maisons bicentenaires que j'ai lues ont toutes fait la même chose. Elles ont gardé une seule chose immobile. Et laissé bouger le reste.</p>
+        
+        <p>Une auberge thermale japonaise résume son histoire en une phrase : la source est la seule constante, tout le reste a changé.</p>
+        
+        <p>Ailleurs, c'est un savoir-faire qui voyage d'un marché mourant à un marché naissant. À Bordeaux, le bois passe des barriques aux modèles de fonderie, puis aux chambres froides, aux cabines d'avion, aux yachts.</p>
+
+        <h2>La prudence comme morale</h2>
+        
+        <p>Ces familles échangent la croissance contre l'indépendance. Délibérément.</p>
+        
+        <p>Une banque londonienne traverse la bulle des mers du Sud, en 1720. Elle en tire une doctrine qui tient encore : la liquidité d'abord. Son dividende n'a pas bougé depuis au moins dix ans.</p>
+        
+        <p class="lecture">Lecture : Olivier Hamant, Antidote au culte de la performance, 2023</p>
+
+        <h2>Le territoire comme assurance</h2>
+        
+        <p>Gênes, 1993. Une inondation noie une biscuiterie sous 1,80 mètre d'eau. La production repart en 22 jours.</p>
+        
+        <p>Les salariés ont travaillé sans garantie de paie. Les fournisseurs ont différé leurs factures. Les banques ont prêté. Les voisins ont déblayé.</p>
+
+        <!-- Encadré Angle mort -->
+        <aside class="angle">
+            <span class="angle-label">L'angle mort</span>
+            <p>Il faut le dire clairement. Je n'ai lu que des survivantes.</p>
+            <p>Combien d'entreprises avaient les mêmes règles et ont disparu ? Personne ne le sait. Les histoires de maisons bicentenaires sont écrites par elles, ou pour elles. Elles viennent de pays où le droit de propriété a tenu deux siècles. Ce sont des régularités. Pas des lois.</p>
+        </aside>
+
+        <h2>Le contre-exemple</h2>
+        
+        <p>Osaka, 578. Un charpentier venu de Corée construit un temple. Sa famille en construira pendant quatorze siècles.</p>
+        
+        <p>Elle avait tout. Quarante générations. Un aîné écarté s'il était inapte. Des gendres qui prenaient le nom. Une veuve à sa tête en 1932, en pleine crise. Seize préceptes écrits.</p>
+        
+        <p>Elle a cédé sur deux règles : le noyau et la prudence. Toutes les autres vertus n'ont pas suffi.</p>
+
+        <!-- Exergue -->
+        <blockquote class="exergue">
+            <strong>Le renversement.</strong><br>
+            Si toutes les entreprises interrogent les mêmes modèles, elles bougent les mêmes choses, au même moment, dans la même direction.
+        </blockquote>
+
+        <h2>Ce que l'IA vient poser</h2>
+        
+        <p>Si toutes les entreprises interrogent les mêmes modèles, elles bougent les mêmes choses, au même moment, dans la même direction.</p>
+        
+        <p>Ce qui ne bouge pas devient alors la seule vraie différence. Le noyau. Le geste. La règle qu'on ne négocie pas.</p>
+        
+        <p>Encore faut-il savoir lequel c'est.</p>
+
+        <h2>Fin de série</h2>
+        
+        <p>Trois textes, une même idée.</p>
+        
+        <p>On n'hérite pas d'une entreprise : on entre dans une maison. Ce qui dure ne résiste pas : il choisit ce qui ne bouge pas. Et l'IA ne demande pas aux vieilles maisons de changer. Elle leur demande de savoir pourquoi elles n'avaient pas changé.</p>
+        
+        <p>La longévité n'est pas une qualité. C'est une discipline sur deux points : ce qu'on ne touche pas, et ce qu'on ne doit pas.</p>
+
+        <!-- Sources -->
+        <h2 class="sources-titre">Sources</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Donnée</th>
+                    <th>Source</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Reconstruction d'Ise tous les vingt ans depuis 690, 63e cycle lancé en 2025</td>
+                    <td>Kokugakuin University, Encyclopedia of Shinto ; Associated Press, 2025</td>
+                </tr>
+                <tr>
+                    <td>Trente histoires d'entreprises bicentenaires</td>
+                    <td>Études de cas académiques (INSEAD, IMD, Witten-Herdecke, EDHEC, Politecnico di Milano, St Andrews), 2015-2025</td>
+                </tr>
+                <tr>
+                    <td>Robustesse et contre-performance</td>
+                    <td>Olivier Hamant, Antidote au culte de la performance, Gallimard, 2023</td>
+                </tr>
+                <tr>
+                    <td>Mortalité de 25 000 entreprises cotées</td>
+                    <td>Daepp et al., The mortality of companies, J. R. Soc. Interface, 2015</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+</body>
+</html>
