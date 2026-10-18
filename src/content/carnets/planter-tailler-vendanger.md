@@ -70,10 +70,4 @@ C'est ce que j'essaie d'offrir autour de moi. Pas demander aux autres de voir au
 
 Ces carnets suivront trois chemins. Contre-jour pour les signaux faibles et ce qui se dessine à l'horizon. Hors-piste pour les outils et les systèmes qui aident à penser autrement. Contrebande pour la fiction, quand elle dit mieux que l'analyse ce qui est en train d'arriver.
 
-J'ai fait le choix d'écrire ces carnets comme un apprentissage numérique au cours duquel je garde trace de mes expérimentations. Dans un monde qui accélère, où chaque décision se prend plus vite que celle d'avant, ces textes sont mes jalons : non pas des vérités figées, mais des instantanés d'une pensée en mouvement, des points d'ancrage dans la vitesse.
-
-J'écris aussi pour transmettre, et pour nourrir mes propres connaissances afin de grandir. Chaque article est une collaboration avec mon agent Hedda : elle me challenge, me protège des angles morts, et m'aide à rendre lisible ce qui serait resté flou. Écrire avec elle, c'est apprendre à penser plus lentement dans un monde qui va trop vite.
-
-Le contre-exemple est déjà là : un constructeur fondé en 578, quarante générations, seize préceptes. Il entre dans le béton après 1955, s'endette dans l'immobilier. En 2006, il perd son indépendance. Il avait la maison. Il avait le geste. Il a cédé sur le noyau et la prudence. Tout le reste n'a pas suffi.
-
-Et pour commencer, une question qui me suit depuis longtemps : comment certaines entreprises traversent-elles deux siècles, quand tant d'autres ne survivent pas à leur fondateur ? Je crois qu'elles ont appris à planter, tailler et vendanger en même temps.
+Contre-jour, Hors-piste, Contrebande : trois rangs, trois vitesses. Je ne sais pas lequel vous cueillerez. Peut-être aucun aujourd'hui. Revenez dans quelques saisons. La vigne sera montée.
