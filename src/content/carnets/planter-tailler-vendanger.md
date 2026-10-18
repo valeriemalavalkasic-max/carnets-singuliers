@@ -8,7 +8,7 @@ stub: false
 ---
 
 # Planter, tailler, vendanger.
-*Pourquoi ces carnets s'appellent Contre-jour*
+*Ou pourquoi mes carnets s'appellent Contre-jour, Hors-piste, et Contrebande*
 
 ![Le pas de côté, à contre-jour - silhouette au travail dans la vigne, regard vers l'horizon](/img/fondation.png)
 
@@ -69,5 +69,9 @@ C'est ce que j'essaie d'offrir autour de moi. Pas demander aux autres de voir au
 ## Ce qui vient
 
 Ces carnets suivront trois chemins. Contre-jour pour les signaux faibles et ce qui se dessine à l'horizon. Hors-piste pour les outils et les systèmes qui aident à penser autrement. Contrebande pour la fiction, quand elle dit mieux que l'analyse ce qui est en train d'arriver.
+
+J'ai fait le choix d'écrire ces carnets comme un apprentissage numérique au cours duquel je garde trace de mes expérimentations. Dans un monde qui accélère, où chaque décision se prend plus vite que celle d'avant, ces textes sont mes jalons : non pas des vérités figées, mais des instantanés d'une pensée en mouvement, des points d'ancrage dans la vitesse.
+
+J'écris aussi pour transmettre, et pour nourrir mes propres connaissances afin de grandir. Chaque article est une collaboration avec mon agent Hedda : elle me challenge, me protège des angles morts, et m'aide à rendre lisible ce qui serait resté flou. Écrire avec elle, c'est apprendre à penser plus lentement dans un monde qui va trop vite.
 
 Contre-jour, Hors-piste, Contrebande : trois rangs, trois vitesses. Je ne sais pas lequel vous cueillerez. Peut-être aucun aujourd'hui. Revenez dans quelques saisons. La vigne sera montée.
