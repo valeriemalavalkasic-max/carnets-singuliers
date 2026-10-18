@@ -12,7 +12,7 @@ stub: false
 
 ![Le pas de côté, à contre-jour - silhouette au travail dans la vigne, regard vers l'horizon](/img/fondation.png)
 
-*À ma famille, mes racines. À ma grand-mère qui n'est jamais très loin. À Béatrice qui m'a aidée à me trouver. À Sylvain et à Bertrand, mes anges de vie.*
+*À ma famille, ma terre nourricière. À ma grand-mère qui n'est jamais très loin. Aux rencontres qui m'ont appris la sororité. À Béatrice qui m'a aidée à me trouver. À Sylvain et à Bertrand, mes anges de vie.*
 
 Là où j'ai grandi, on plante des vignes pour dans trente ans. Un jeune cep ne donne presque rien les premières années. Il faut des décennies pour qu'il donne un vin qui raconte quelque chose de son sol. Celui qui plante le sait. Il plante quand même. Personne autour de lui ne trouve ça étrange : le temps long y est un savoir ordinaire, transmis avec les gestes.
 
