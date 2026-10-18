@@ -7,9 +7,9 @@ teaser: "Quand l'IA répond, qui transmet encore ? Un billet sur la suricate du 
 stub: false
 ---
 
-> **L'ESSENTIEL.** L'IA fait progresser celui qui garde l'effort. Elle déqualifie, sans bruit, celui qui lui laisse la place. Un lycéen qui s'entraîne avec ChatGPT gagne 48 % aux exercices, puis perd 17 % à l'examen. Un agent de support débutant gagne 36 % et garde l'acquis quand l'outil tombe en panne. Même technologie, effets opposés : tout se joue dans ce que l'outil fait faire à la personne.
+![Image — Eaux profondes n°1](/img/Image-eaux-profondes-01.png)
 
-![Illustration au trait — racines, transmission, horizon](/img/couverture-eaux-profondes-01.png)
+> **L'ESSENTIEL.** L'IA fait progresser celui qui garde l'effort. Elle déqualifie, sans bruit, celui qui lui laisse la place. Un lycéen qui s'entraîne avec ChatGPT gagne 48 % aux exercices, puis perd 17 % à l'examen. Un agent de support débutant gagne 36 % et garde l'acquis quand l'outil tombe en panne. Même technologie, effets opposés : tout se joue dans ce que l'outil fait faire à la personne.
 
 *Eaux profondes · n° 1 · Contre-jour*
 
@@ -64,4 +64,4 @@ La question à poser au prochain comité n'est donc plus combien de personnes no
 
 ---
 
-Pour descendre plus bas. [Le dossier complet (PDF, 13 pages)](/carnets-singuliers/carnet-singuliers-valerie-malaval-eaux-profondes-01.pdf) explore ce que le cerveau, le vivant, l'atelier et le terrain de sport nous apprennent de la transmission. Il compare les modèles américain et chinois, décrit les nouveaux formats des écoles et des universités d'entreprise, et propose sept modèles pour ces dernières.
+Pour descendre plus bas. [Le dossier complet (PDF, 13 pages, sources datées)](/carnets-singuliers/carnet-singuliers-valerie-malaval-eaux-profondes-01.pdf) explore ce que le cerveau, le vivant, l'atelier et le terrain de sport nous apprennent de la transmission. Il compare les modèles américain et chinois, décrit les nouveaux formats des écoles et des universités d'entreprise, et propose sept modèles pour ces dernières.
