@@ -89,7 +89,11 @@ a { color: inherit; }
    Layout helpers
    ============================================================ */
 .wrap { max-width: var(--measure-wide); margin: 0 auto; padding: 0 1.5rem; }
-.prose { max-width: var(--measure); margin: 0 auto; padding: 0 1.5rem; }
+.prose { max-width: var(--measure); margin: 0 auto; padding: 0 clamp(1rem, 4vw, 2rem); }
+
+@media (max-width: 760px) {
+  .prose { max-width: 100%; padding: 0 1.25rem; }
+}
 
 /* ============================================================
    Site nav + footer
@@ -296,9 +300,9 @@ footer {
 .article-head .date { color: var(--ink-faint); font-size: 0.9rem; font-family: var(--font-mono); }
 
 .article-body { padding: 1.5rem 0 4rem; --c: var(--ink-soft); }
-.article-body p { margin: 0 0 1.3rem; }
-.article-body h2 { font-family: var(--font-display); font-weight: 500; font-size: 1.5rem; margin: 2.2rem 0 1rem; }
-.article-body h3 { font-family: var(--font-display); font-weight: 500; font-size: 1.2rem; margin: 1.8rem 0 0.8rem; }
+.article-body p { margin: 0 0 1.3rem; font-size: clamp(1rem, 1.5vw, 1.125rem); line-height: 1.75; }
+.article-body h2 { font-family: var(--font-display); font-weight: 500; font-size: 1.5rem; margin: 2.5rem 0 1rem; }
+.article-body h3 { font-family: var(--font-display); font-weight: 500; font-size: 1.2rem; margin: 2rem 0 0.8rem; }
 .article-body blockquote {
   margin: 2rem 0; padding-left: 1.25rem; border-left: 3px solid var(--c);
   font-family: var(--font-display); font-style: italic; font-size: 1.2rem; color: var(--ink-soft);
@@ -308,6 +312,15 @@ footer {
 .article-body li { margin-bottom: 0.4rem; }
 .article-body a { text-decoration-color: var(--rule); transition: text-decoration-color var(--dur-hover) var(--ease-hover); }
 .article-body a:hover { text-decoration-color: var(--ink); }
+.article-body table { width: 100%; border-collapse: collapse; margin: 2rem 0; font-size: 0.95rem; }
+.article-body th, .article-body td { padding: 0.6rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
+.article-body th { font-family: var(--font-mono); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-faint); }
+.article-body table { overflow-x: auto; display: block; white-space: nowrap; }
+@media (max-width: 760px) {
+  .article-body h2 { font-size: 1.3rem; margin: 2rem 0 0.8rem; }
+  .article-body h3 { font-size: 1.1rem; margin: 1.6rem 0 0.6rem; }
+  .article-body blockquote { font-size: 1.05rem; margin: 1.5rem 0; }
+}
 
 .back-link {
   display: inline-block; margin: 2rem 0 0; font-family: var(--font-mono);
