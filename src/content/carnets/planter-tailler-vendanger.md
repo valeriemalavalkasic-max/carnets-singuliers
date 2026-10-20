@@ -21,7 +21,7 @@ Là où j'ai grandi, on plante des vignes pour dans trente ans. Un jeune cep ne 
 
 En plus de trente ans, je me revois dans des dizaines de réunions où une décision importante se prend. Parfois j'y suis petite main, parfois directrice. Le rôle change. Ce que je vois, non.
 
-On cherche de l'efficience. Je vois aussi le savoir-faire qui partira avec les gestes qu'on supprime. On crée une université interne. Je vois aussi l'apprentissage en train de basculer, parce que l'IA change déjà la façon dont on apprend un métier.
+On cherche à numériser le processus de trésorerie. Personne ne voit que la trésorière fait sa revue des chiffres avec son papier crayon. On cherche de l'efficience. Et personne ne voit le savoir-faire qui partira avec les gestes qu'on supprime. On crée une université interne. Je vois aussi l'apprentissage en train de basculer, parce que l'IA change déjà la façon dont on apprend un métier.
 
 Ce n'est pas le rôle qui dit qui je suis. C'est l'endroit où mon regard se pose : un peu plus loin sur la ligne du temps, là où la décision d'aujourd'hui produira ses effets.
 
