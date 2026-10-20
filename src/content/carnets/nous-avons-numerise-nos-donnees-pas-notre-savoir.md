@@ -32,7 +32,7 @@ Dans *L'IA ne crée pas le vide. Elle le polit.*, je parlais du workslop. Ce tra
 
 Le texte produit par l'agent est enregistré dans le Drive. Il devient la source de l'agent suivant. Je n'ai pas encore vu d'étude publiée qui mesure cette boucle en entreprise. Je la vois se dessiner. Et elle ressemble à un problème connu : la **boucle d'erreur composée**. Même un taux d'erreur de 1 % peut se transformer en échec de mission quand il se répète sur plusieurs itérations d'agents. L'observabilité ne suffit pas si personne ne possède le savoir d'origine.
 
-Et les erreurs qui comptent ne sont pas celles qu'on croit. Dans une expérience du printemps 2026 (*Bias in the Loop*, 2 784 participants), les fautes de frappe dans des chiffres présentés comme extraits par IA sont repérées huit fois sur dix. Les erreurs qui exigent de connaître les règles du métier, environ trois fois sur dix.
+Et les erreurs qui comptent ne sont pas celles qu'on croit. Dans une expérience publiée en avril 2026 (*Bias in the Loop*, Harvard Data Science Review, 2 784 participants), les fautes de frappe dans des chiffres présentés comme extraits par IA sont repérées huit fois sur dix. Les erreurs qui exigent de connaître les règles du métier, environ trois fois sur dix.
 
 L'erreur visible se corrige. L'erreur de sens passe. Et elle devient la source.
 
@@ -46,7 +46,7 @@ L'agentique entre par la technologie. Elle déplace tout le reste.
 
 Les tâches glissent de l'analyse vers la vérification. La structure doit dire qui décide, et qui répond quand l'agent s'est trompé. Les personnes ont besoin de compétences nouvelles, et surtout de confiance.
 
-Les chiffres récents racontent la même histoire. Le Work Trend Index 2026 de Microsoft le confirme. Les facteurs d'organisation pèsent deux fois plus que ceux liés à l'individu dans l'impact de l'IA. Le MIT estimait en 2025 que 95 % des pilotes d'IA générative ne produisaient pas d'effet mesurable sur le compte de résultat. Pas par défaut de modèle. Par défaut d'intégration dans le travail réel.
+Les chiffres récents racontent la même histoire. Le Work Trend Index publié par Microsoft en mai 2026 le confirme. Les facteurs d'organisation pèsent deux fois plus que ceux liés à l'individu dans l'impact de l'IA. Le MIT estimait en août 2025 que 95 % des pilotes d'IA générative ne produisaient pas d'effet mesurable sur le compte de résultat. Pas par défaut de modèle. Par défaut d'intégration dans le travail réel.
 
 On achète une technologie. On hérite d'une réorganisation.
 
@@ -62,13 +62,13 @@ En juillet 2026, un rapport note que près d'un tiers des travailleurs admettent
 
 La formule d'engagement est simple. « Je ne touche pas à votre jugement ni à votre contrat. Je vous débarrasse simplement de ce vendredi après-midi à recopier des lignes sur un tableur Excel. » Quand le contrat distinguera la corvée de la personne, la résistance tombera d'elle-même.
 
-Le cas MAIF montre que c'est faisable. Ce printemps, ses six organisations syndicales ont signé à l'unanimité un accord qui pose noir sur blanc que le déploiement de l'IA ne conduira à aucun licenciement économique. Moins de 5 % des entreprises françaises ont négocié un cadre formel sur l'IA. La MAIF n'a pas acheté la technologie. Elle a acheté la sérénité organisationnelle. Le droit de déployer sans guérilla.
+Le cas MAIF montre que c'est faisable. Le 11 mai 2026, six organisations syndicales ont signé avec elle un accord qui pose noir sur blanc que le déploiement de l'IA ne conduira à aucun licenciement, et qui crée une commission IA au sein du CSE central. La MAIF n'a pas acheté la technologie. Elle a acheté la sérénité organisationnelle. Le droit de déployer sans guérilla.
 
 Le dilemme est là. Si vous m'automatisez, moi qu'est-ce que je fais ? Et comme personne n'a de réponse, le projet s'arrête là. Même le tableur continue. Huit cents fois par an.
 
-Les chercheurs ont un nom pour le piège : la **zone de déformation morale** (*moral crumple zone*). Un humain garde l'autorité sur le papier, sans contrôle réel. Il est là pour absorber la faute. Une équipe de Google DeepMind y revient en juin 2026. À propos des chaînes d'agents : la responsabilité doit être proportionnée à l'autorité. Pas distribuée par défaut au premier humain disponible. Data & Society publiait en juillet 2026 un rapport sur le même sujet. Le « human-in-the-loop » ne suffit pas si le contrôle n'est pas réel.
+Les chercheurs ont un nom pour le piège : la **zone de déformation morale** (*moral crumple zone*, Madeleine Clare Elish, 2019). Un humain garde l'autorité sur le papier, sans contrôle réel. Il est là pour absorber la faute. Une équipe de Google DeepMind y revient début 2026. À propos des chaînes d'agents : la responsabilité doit être proportionnée à l'autorité. Pas distribuée par défaut au premier humain disponible. Le « human-in-the-loop » ne suffit pas si le contrôle n'est pas réel.
 
-La confiance, elle, se construit par l'exemple. Toujours selon Microsoft, elle gagne 30 points quand les managers montrent leur propre usage. Pas une charte. Un geste.
+La confiance, elle, se construit par l'exemple. Dans une autre étude de Microsoft, sur 1 800 salariés, la confiance dans les agents gagne 30 points quand les managers montrent leur propre usage. Pas une charte. Un geste.
 
 Quand la règle n'est pas écrite, chacun invente la sienne.
 

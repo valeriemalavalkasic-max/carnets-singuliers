@@ -7,11 +7,11 @@ teaser: "Quand l'IA répond, qui transmet encore ? Un billet sur la suricate du 
 stub: false
 ---
 
-> **L'ESSENTIEL.** L'IA fait progresser celui qui garde l'effort. Elle déqualifie, sans bruit, celui qui lui laisse la place. Un lycéen qui s'entraîne avec ChatGPT gagne 48 % aux exercices, puis perd 17 % à l'examen. Un agent de support débutant gagne 36 % et garde l'acquis quand l'outil tombe en panne. Même technologie, effets opposés : tout se joue dans ce que l'outil fait faire à la personne.
+> **L'ESSENTIEL.** L'IA fait progresser celui qui garde l'effort. Elle déqualifie, sans bruit, celui qui lui laisse la place. Un lycéen qui s'entraîne avec ChatGPT gagne 48 % aux exercices, puis perd 17 % à l'examen. Un agent de support débutant gagne 36 % et garde l'acquis quand l'outil tombe en panne. Tout se joue dans ce que l'outil fait faire à la personne.
 
 *Eaux profondes · n° 1 · Contre-jour*
 
-## Elle ne chasse pas à sa place
+## Le scorpion sans dard
 
 Dans le Kalahari, une suricate adulte apporte à son petit un scorpion mort. Plus tard, un scorpion sans dard. Plus tard encore, un scorpion intact.
 
@@ -35,14 +35,9 @@ Le lycéen a recopié une réponse. L'agent a lu une proposition, l'a jugée, ad
 | Ce que fait la personne | Recopie, ou cherche avec un indice | Lit, juge, adapte, envoie |
 | Pendant l'usage | +48 % (ChatGPT), +127 % (tuteur) | +15 % en moyenne, +36 % pour débutants |
 | Quand l'IA s'arrête | -17 % à l'examen (ChatGPT), pas d'écart net (tuteur) | Au-dessus du niveau d'avant durant les pannes |
+## Le chemin des anciens
 
-Le même outil. Deux gestes. Un résultat opposé.
-
-## Le savoir abonde. La transmission se raréfie.
-
-On pose souvent la question ainsi : l'IA aide-t-elle à apprendre ? Elle aide celui qui garde l'effort. Elle déqualifie, sans bruit, celui qui lui laisse la place.
-
-Mais en creusant, j'ai compris que la vraie question était ailleurs. Le savoir abonde. La transmission se raréfie.
+On pose souvent la question ainsi : l'IA aide-t-elle à apprendre ? En creusant, j'ai compris que la vraie question était ailleurs. Le savoir abonde. La transmission se raréfie.
 
 Dans le Wyoming, des biologistes ont suivi des mouflons et des élans déplacés vers des territoires où leur espèce avait disparu. Les animaux étaient sains, le paysage favorable. Il manquait des anciens qui connaissaient le chemin de la migration. Moins de 9 % des animaux déplacés ont migré, contre 65 à 100 % dans les troupeaux installés. Il a fallu près de quarante ans aux mouflons pour reconstruire ce savoir, et environ quatre-vingt-dix aux élans.
 
@@ -54,7 +49,7 @@ Une organisation qui laisse partir ses anciens sans transmission ressemble à ce
 
 C'est là que l'IA change la donne. Elle automatise d'abord les tâches par lesquelles les juniors apprenaient : la première version, la synthèse, la recherche. Aux États-Unis, l'emploi des 22-25 ans dans les métiers les plus exposés est déjà environ 19 % sous la tendance attendue. On embauche moins de débutants. On forme donc moins de futurs anciens.
 
-## La veilleuse honnête
+## Ce que je vois venir
 
 Ce que je vois venir, je ne peux pas encore le prouver. Une génération de juniors qui produira beaucoup et saura peu. Des seniors qui partiront sans relève, avec un savoir que personne n'aura écrit.
 
@@ -62,15 +57,19 @@ La médecine en donne un avant-goût. Des endoscopistes expérimentés ont perdu
 
 Et il y a ce que je ne sais pas. Je ne sais pas si l'IA peut s'apprendre, ou seulement s'expérimenter. Si elle ne s'apprend qu'en la pratiquant, aucun catalogue de cours ne suffira. Il faudra des lieux où l'on pratique ensemble, où l'on se trompe devant quelqu'un, où un ancien règle la difficulté.
 
-> **ANGLE MORT.** Aucune étude ne suit l'apprentissage avec l'IA sur plusieurs années. Les tests les plus longs vont d'une semaine à 45 jours. Les grandes refontes d'écoles (Sydney, Surrey, HEC Paris, INSEAD) n'ont publié aucun résultat d'apprentissage. Les universités d'entreprise publient des nombres de personnes formées, jamais ce qu'elles savent faire ensuite. La Chine forme à une échelle inédite sans évaluation indépendante connue.
+> **ANGLE MORT.** Aucune étude ne suit l'apprentissage avec l'IA sur plusieurs années. Les tests les plus longs vont d'une semaine à 45 jours. Les grandes refontes d'écoles (Sydney, Surrey, HEC Paris, INSEAD) n'ont publié aucun résultat d'apprentissage. Les universités d'entreprise publient surtout des nombres de personnes formées, rarement ce qu'elles savent faire ensuite. La Chine forme à une échelle inédite sans évaluation indépendante connue.
 
 ## Ce que les écoles ont déjà compris
 
-Les écoles l'ont compris avant les entreprises. Elles ne changent pas d'abord leurs cours. Elles changent leur façon de prouver qu'on sait faire : la soutenance, l'oral, l'épreuve sans machine.
+Les écoles l'ont compris avant les entreprises. Avant de toucher à leurs cours, elles changent leur façon de prouver qu'on sait faire : la soutenance, l'oral, l'épreuve sans machine.
+
+Côté entreprise, je connais le problème de l'intérieur. De 2014 à 2020, j'ai été COO d'AXA Université. Nous mesurions surtout les moyens : les contenus créés, la participation, la satisfaction. La performance six mois plus tard était bien plus difficile à saisir. Nous y arrivions pour certaines populations, dans certaines zones géographiques, mais c'était toujours un processus en plus. Je me suis beaucoup questionnée sur ce qu'un MOOC apportait vraiment en compétence, si loin du faire et du terrain.
+
+Si c'était à refaire, je ne créerais pas de contenu là où il en existe déjà. Je favoriserais l'expérimentation, et je réserverais du temps pour pratiquer.
 
 ## La question au comité
 
-La question à poser au prochain comité n'est donc plus combien de personnes nous avons formées à l'IA. C'est : qui, chez nous, saurait encore faire si l'outil s'arrêtait demain ?
+Au prochain comité, je ne demanderais plus combien de personnes nous avons formées à l'IA. Je demanderais qui, chez nous, saurait encore faire si l'outil s'arrêtait demain.
 
 ---
 

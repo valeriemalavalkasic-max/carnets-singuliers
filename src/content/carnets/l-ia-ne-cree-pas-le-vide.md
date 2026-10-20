@@ -3,53 +3,51 @@ title: "L'IA ne crée pas le vide. Elle le polit."
 category: contre-jour
 date: 2026-09-05
 tags: [signaux-faibles, ia, connaissance, travail, organisation]
-teaser: "Un fichier Excel met une minute à s'ouvrir. Un rapport ne change aucune décision. L'IA ne crée pas cela. Elle rend cela moins cher."
+teaser: "Trente onglets, des rapports impeccables, et plus personne pour expliquer ce qu'il faut corriger."
 ---
 
-Un fichier Excel met une minute à s'ouvrir. Quinze onglets. Des formules brisées. Des en-têtes orphelines. Des données sur lesquelles personne n'a jamais pris de décision. Plusieurs collègues ont sûrement transpiré sur les formules. De là, se posera la question de comment mettre en forme. Ces mêmes personnes transpirent à nouveau (ou pas) pour les mettre dans des slides. Ensuite, ce même fichier est rangé dans un lecteur partagé. Et il pourrit.
+Je viens d'ouvrir un fichier Excel. Il s'affiche instantanément et pourtant il comprend plus de trente onglets. Je l'ai ouvert à plusieurs reprises, et je ne me rappelle plus où j'ai mis mes propres analyses. Oui, j'ai participé en créant deux onglets de plus, mais je l'ai fait avec des couleurs en espérant que tout cela deviendrait plus joyeux.
 
-Ce n'est pas une anomalie. C'est le système qui fonctionne comme prévu.
+Derrière les lignes, j'imagine les nombreux collègues qui ont sûrement transpiré sur les formules, la mise en forme et le célèbre « comment je recopie ce truc dans PowerPoint ».
+
+À la fin, le système fonctionnera comme prévu. Le fichier finira dans un répertoire.
 
 ## Le mythe du slop
 
-On nous fait croire que l'IA générative a inventé le « slop » : cette bouillie informationnelle lisse, polie, mais totalement vide de substance. C'est faux. Le vide était déjà là. Il attendait juste d'être industrialisé.
+On nous fait croire que l'IA générative a inventé le « slop » : cette bouillie informationnelle lisse, polie, mais vide de substance. C'est faux. Le vide était déjà là. Il attendait juste d'être industrialisé.
 
-Reprenons notre exemple. Les mêmes collaborateurs ont toujours la même donnée fragmentée. Ils tentent de la faire ingérer à l'IA. Mais pour que l'outil comprenne, il faudrait d'abord nettoyer, structurer, convertir en Markdown. Faute de ce travail de fond, l'IA traite mécaniquement des formules brisées et des en-têtes orphelines. Elle est aveugle au contexte. Elle génère donc une nouvelle forme de « pseudo-connaissances », potentiellement fausses, qui reprend le même chemin : slide, présentation, stockage. Sauf que cette fois-ci, l'IA donne le même effet multiplicateur du slop, mais à l'échelle de l'entreprise.
+Reprenons notre exemple. Les mêmes collaborateurs ont toujours la même donnée fragmentée. Ils tentent de la faire ingérer à l'IA. Mais pour que l'outil comprenne, il faudrait d'abord nettoyer, structurer, convertir en Markdown. Faute de ce travail de fond, l'IA traite mécaniquement ce qu'elle trouve. Elle est aveugle au contexte. Elle génère donc une nouvelle forme de « pseudo-connaissances », potentiellement fausses, qui reprend le même chemin : slide, présentation, stockage. Sauf que cette fois, c'est à l'échelle de l'entreprise.
 
 Dans cette histoire, rien n'est finalement une histoire de technologie.
 
-## Le workslop et le cercle non vicieux
+## Un cercle fermé
 
-Stanford et BetterUp (2025) ont donné un nom au phénomène : le « workslop ». 40 % des travailleurs de bureau ont reçu du contenu IA lisse mais vide le mois dernier. En moyenne, deux heures de nettoyage par incident.
+Des chercheurs de Stanford et de BetterUp ont donné un nom au phénomène en septembre 2025 : le « workslop ». Quatre salariés de bureau américains sur dix disaient en avoir reçu le mois précédent, du contenu produit par IA, propre en apparence, vide en réalité. Chaque cas demandait près de deux heures de reprise.
 
-Le point n'est pas que l'IA crée du bruit. Le point est qu'elle ne fait pas gagner du temps. Elle déplace la charge. Avant, le bruit était lent et visible. Maintenant, il est rapide et invisible.
+Le temps gagné à produire se perd à corriger, plus tard, par quelqu'un d'autre. Avant, le bruit était lent et visible. Maintenant, il est rapide et invisible.
 
-Le cercle n'est pas vicieux. Il est fermé. On génère plus vite. On corrige plus longtemps. On ne construit rien. Et personne ne voit le problème, parce que le rapport est rendu à temps.
+On génère plus vite, on corrige plus longtemps, et on ne construit rien. Personne ne voit le problème, parce que le rapport est rendu à temps.
 
 ## L'IA comme accélérateur d'erreur
 
-Que fait l'intelligence artificielle dans ce paysage ? Elle n'apporte pas la substance. Elle rend la performance du vide moins chère et plus rapide.
+Que fait l'intelligence artificielle dans ce paysage ? Elle rend la performance du vide moins chère et plus rapide.
 
-Elle permet de générer en trois secondes le rapport que personne n'aurait eu le temps de construire. Elle ne lit pas vraiment vos données, car elle ne sait pas lire nos formats. Et comme elle est complaisante, elle dessine le format de ce qui vous fera plaisir.
+Elle permet de générer en trois secondes le rapport que personne n'aurait eu le temps de construire. Elle lit mal nos données, parce qu'elle ne sait pas lire nos formats. Et comme elle est complaisante, elle dessine le format de ce qui vous fera plaisir.
 
-Le danger ne vient pas de l'hallucination. Il vient du recyclage : la machine alimente ses modèles avec nos données obsolètes. L'IA n'invente pas l'erreur. Elle l'industrialise.
-
-San Francisco Fed et Goldman Sachs (2025-2026) montrent que la productivité a chuté à 0,8 % par an depuis 2010. 95 % des pilotes d'IA en entreprise échouent à produire un retour sur investissement mesurable. L'IA ne tient pas la promesse de productivité. Elle parie sur une croissance qui ne vient pas.
+Le danger que je vois tient moins à l'hallucination qu'au recyclage : ce que la machine tire de nos fichiers périmés retourne dans nos dossiers, et devient la matière de la demande suivante.
 
 ## Rien à transmettre
 
-Les recherches sur l'apprentissage organisationnel (Pentagone, 2025) montrent une perte de 5 à 15 % des compétences opérationnelles à chaque cycle de délégation. Et une dégradation mensuelle de la capacité humaine à corriger les décisions de l'IA.
+J'observe depuis quelques mois, comme tout le monde, l'augmentation des documents à lire. Tous parfaitement au point. J'observe aussi que mes propres documents passent dans une IA pour me poser des questions. J'ai même eu le cas où l'on m'a demandé de revérifier une information (vérifiée, elle) face à un document d'origine qui, lui, était bourré d'erreurs.
 
-Au-delà d'un problème de fichiers, c'est une amnésie institutionnelle mesurable.
+Que dire encore de cette réunion où la personne avait fait son travail avec l'IA et ne parvenait pas à m'expliquer ce que je devais vraiment corriger.
 
-Une organisation qui ne sait pas ce qu'elle sait ne peut pas innover. Elle ne peut que répéter. Il n'y a plus de socle de savoir à transmettre. Plus de fondation pour croître. Juste une course pour remplir des templates avec du bruit généré.
+Ces scènes vont bien au-delà du slop. Ce sont les signaux d'une organisation qui ne sait plus ce qu'elle sait. L'expertise se vide, et avec elle, le socle qui permet de transmettre.
 
 ## Pourquoi reconstruire son propre savoir
 
-Le vrai choc n'arrivera pas avec un effondrement visible. Un pont qui s'effondre fissure. Une entreprise qui fait faillite affiche des pertes. Mais une organisation qui a remplacé la substance par la performance ne montre rien. Les rapports sont rendus. Les heatmaps sont là. Tout a l'air exactement comme cela devrait être.
+Le vrai choc n'arrivera pas avec un effondrement visible. Un pont se fissure avant de tomber. Une entreprise affiche des pertes avant de faire faillite. Mais une organisation qui a remplacé la substance par la performance ne montre rien. Les rapports sont rendus. Les présentations PowerPoint sont jolies. Tout a l'air normal.
 
-La question n'est pas de savoir si le système s'effondre. Les systèmes bâtis sur le déclin des compétences s'effondrent toujours.
+Je ne sais pas quand ce système cédera. Je me demande qui sera encore dans la pièce, capable de reconnaître le réel, quand le modèle ne suffira plus.
 
-La question est de savoir qui sera encore dans la pièce, capable de reconnaître le réel, quand le modèle ne suffira plus.
-
-C'est pour cela qu'il faut construire ses propres outils. Pas pour être plus rapide. Pour conserver la capacité de juger.
+C'est pour cela que je construis mes propres outils : pour garder la capacité de juger.
