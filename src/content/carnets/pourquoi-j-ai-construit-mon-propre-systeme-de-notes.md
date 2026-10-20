@@ -40,6 +40,6 @@ Et puis il y a un dernier bénéfice, plus subtil. Le fait que mes notes soient 
 
 ## La question à se poser
 
-Pour chaque outil que vous utilisez pour vos notes, posez la question : "qui possède ce que j'écris ?"
+Pour chaque outil que vous utilisez pour vos notes, posez la question : « qui possède ce que j'écris ? »
 
-Si la réponse est "l'éditeur", réfléchissez deux fois.
+Si la réponse est « l'éditeur », réfléchissez deux fois.

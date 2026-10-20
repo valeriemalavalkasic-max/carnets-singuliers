@@ -52,11 +52,12 @@ Si le livre l'émeut, le provoque ou l'enrichit, la magie a opéré. Juger une �
 
 Si un roman écrit avec l'IA vous a fait pleurer, est-ce la machine qui vous a ému, ou l'humain qui a su la guider ?
 
-<!--
-Sources
-- Livres Hebdo, « Thélyson Orélien : la polémique bouleverse le monde du livre » (chronologie : 21, 24 et 25 septembre 2026).
-- TelQuel, 1er octobre 2026 (prix du roman Fnac, motif de l'Académie : plagiat passé et usage « vraisemblable » de l'IA).
-- Next, 23 septembre 2026, « Les détecteurs automatiques de textes générés par IA surfent sur le doute » (fausses analyses Hugo et Shelley).
-- EBSCO Research Starters, « Auguste Maquet » (procès de 1858).
-- Noovo Info, 28 septembre 2026 (le dirigeant de Pangram : le logiciel ne doit jamais être l'arbitre final).
--->
+---
+
+## Sources
+
+- Livres Hebdo, *Thélyson Orélien : la polémique bouleverse le monde du livre*, septembre 2026.
+- TelQuel, *« C'était ça ou mourir » : une polémique qui implique bien plus que le plagiat*, 1er octobre 2026.
+- Next, *Les détecteurs automatiques de textes générés par IA surfent sur le doute*, 23 septembre 2026.
+- Noovo Info, *Noovo Info a mis à l'épreuve le détecteur d'IA Pangram*, 28 septembre 2026.
+- EBSCO Research Starters, *Auguste Maquet*.

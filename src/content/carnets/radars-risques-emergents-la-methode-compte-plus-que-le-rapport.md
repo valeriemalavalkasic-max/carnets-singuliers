@@ -9,7 +9,7 @@ stub: false
 
 Chaque printemps, un nouveau rapport de risques émergents atterrit sur les bureaux. Cette année, le CRO Forum a publié son *Emerging Risk Radar* 2026. Le problème, c'est qu'un radar ne montre jamais ce qu'il faudrait vraiment voir : comment transformer une liste générique en décision utile pour son propre registre.
 
-Deux nouveaux risques font leur entrée. La concentration du pouvoir technologique. Les aliments ultra-transformés. Deux autres basculent de "horizon lointain" à "déjà observé" : l'intelligence artificielle et la complexité des chaînes d'approvisionnement.
+Deux nouveaux risques font leur entrée. La concentration du pouvoir technologique. Les aliments ultra-transformés. Deux autres basculent de « horizon lointain » à « déjà observé » : l'intelligence artificielle et la complexité des chaînes d'approvisionnement.
 
 Le CRO Forum réunit les Chief Risk Officers d'Allianz, AXA, Munich Re, Swiss Re, Generali. Un rapport pensé pour l'assurance. Alors pourquoi un risk manager d'un tout autre secteur devrait-il s'y intéresser ?
 
@@ -32,16 +32,16 @@ Le radar donne des signaux utiles bien au-delà de son public premier. Mais copi
 Un rapport de risques émergents n'a de valeur que si je sais quoi en faire une fois refermé. Voici ce que j'applique, en 4 temps.
 
 **1. Repérer ce qui a changé.**
-Je ne relis pas un rapport annuel comme s'il était neuf. Je me concentre sur le différentiel avec l'édition précédente. Quels risques sont ajoutés ? Lesquels sont renommés ? Pour lesquels l'horizon temporel a basculé ? Un risque qui passe de "à 5 ans" à "déjà observé" mérite une relecture immédiate.
+Je ne relis pas un rapport annuel comme s'il était neuf. Je me concentre sur le différentiel avec l'édition précédente. Quels risques sont ajoutés ? Lesquels sont renommés ? Pour lesquels l'horizon temporel a basculé ? Un risque qui passe de « à 5 ans » à « déjà observé » mérite une relecture immédiate.
 
 **2. Distinguer un renforcement d'un trou.**
 Pour chaque risque du rapport, une seule question : ai-je déjà un signal qui couvre ce sujet ? Si oui, j'enrichis la description existante. Si non, je tiens un candidat sérieux à un nouveau signal. Cette distinction, la plupart des exercices de veille la sautent. Par manque de temps, on ajoute tout. Ou on n'ajoute rien.
 
 **3. Traduire l'abstrait en conséquence métier.**
-Un risque générique ne vaut rien tant qu'il n'est pas relié à un actif, un processus ou un fournisseur identifiable. "Concentration du pouvoir technologique" devient concret quand je le relie à mon fournisseur cloud critique et à mon scénario de bascule forcée.
+Un risque générique ne vaut rien tant qu'il n'est pas relié à un actif, un processus ou un fournisseur identifiable. « Concentration du pouvoir technologique » devient concret quand je le relie à mon fournisseur cloud critique et à mon scénario de bascule forcée.
 
 **4. Prioriser selon mon secteur.**
-Un risque classé "élevé" pour l'assurance peut être secondaire chez moi. La hiérarchie du rapport reflète les priorités de ses auteurs, pas les miennes. Reclasser selon ma propre grille de matérialité est l'étape la plus souvent oubliée. Et la plus importante.
+Un risque classé « élevé » pour l'assurance peut être secondaire chez moi. La hiérarchie du rapport reflète les priorités de ses auteurs, pas les miennes. Reclasser selon ma propre grille de matérialité est l'étape la plus souvent oubliée. Et la plus importante.
 
 ## Le résultat
 
@@ -53,4 +53,6 @@ C'est précisément l'intérêt de la méthode. Transformer un rapport sectoriel
 
 ---
 
-**Source :** CRO Forum, *Emerging Risks Initiative, Major Trends and Emerging Risk Radar 2026*, mai 2026. [thecroforum.org](https://thecroforum.org/emerging-risks-initiative-major-trends-and-emerging-risk-radar-2026/)
+## Sources
+
+- CRO Forum, *Emerging Risks Initiative, Major Trends and Emerging Risk Radar 2026*, mai 2026, [thecroforum.org](https://thecroforum.org/emerging-risks-initiative-major-trends-and-emerging-risk-radar-2026/).

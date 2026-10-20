@@ -51,3 +51,9 @@ Le vrai choc n'arrivera pas avec un effondrement visible. Un pont se fissure ava
 Je ne sais pas quand ce système cédera. Je me demande qui sera encore dans la pièce, capable de reconnaître le réel, quand le modèle ne suffira plus.
 
 C'est pour cela que je construis mes propres outils : pour garder la capacité de juger.
+
+---
+
+## Sources
+
+- Niederhoffer, Kellerman, Lee, Liebscher, Rapuano et Hancock, *AI-Generated « Workslop » Is Destroying Productivity*, Harvard Business Review, 22 septembre 2025 (Stanford Social Media Lab et BetterUp Labs).

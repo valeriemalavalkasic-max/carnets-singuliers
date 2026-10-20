@@ -9,8 +9,6 @@ stub: false
 
 > **L'ESSENTIEL.** L'IA fait progresser celui qui garde l'effort. Elle déqualifie, sans bruit, celui qui lui laisse la place. Un lycéen qui s'entraîne avec ChatGPT gagne 48 % aux exercices, puis perd 17 % à l'examen. Un agent de support débutant gagne 36 % et garde l'acquis quand l'outil tombe en panne. Tout se joue dans ce que l'outil fait faire à la personne.
 
-*Eaux profondes · n° 1 · Contre-jour*
-
 ## Le scorpion sans dard
 
 Dans le Kalahari, une suricate adulte apporte à son petit un scorpion mort. Plus tard, un scorpion sans dard. Plus tard encore, un scorpion intact.
@@ -74,3 +72,12 @@ Au prochain comité, je ne demanderais plus combien de personnes nous avons form
 ---
 
 Pour descendre plus bas. [Le dossier complet (PDF, 13 pages, sources datées)](/carnets-singuliers/carnet-singuliers-valerie-malaval-eaux-profondes-01.pdf) explore ce que le cerveau, le vivant, l'atelier et le terrain de sport nous apprennent de la transmission. Il compare les modèles américain et chinois, décrit les nouveaux formats des écoles et des universités d'entreprise, et propose sept modèles pour ces dernières.
+
+## Sources
+
+- Thornton et McAuliffe, *Teaching in wild meerkats*, Science, 2006.
+- Bastani et al., *Generative AI without guardrails can harm learning*, PNAS, 2025.
+- Brynjolfsson, Li et Raymond, *Generative AI at Work*, Quarterly Journal of Economics, 2025.
+- Jesmer et al., *Is ungulate migration culturally transmitted?*, Science, 2018.
+- Brynjolfsson, Chandar et Chen, *Canaries in the Coal Mine?*, Stanford Digital Economy Lab, août 2026.
+- Budzyń et al., The Lancet Gastroenterology & Hepatology, 2025.

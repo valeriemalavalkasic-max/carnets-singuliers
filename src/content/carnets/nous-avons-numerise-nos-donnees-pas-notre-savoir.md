@@ -89,3 +89,18 @@ La question n'est pas de savoir si nos agents seront intelligents. Ils le seront
 La question est de savoir ce que nous leur donnerons à lire.
 
 Un savoir dispersé ne devient pas fiable parce qu'une machine le lit. Il devient faux plus vite. Et la boucle le rend indiscutable.
+
+---
+
+## Sources
+
+- Nonaka et Takeuchi, *The Knowledge-Creating Company*, Oxford University Press, 1995.
+- Beck, Eckman, Kern et Kreuter, *Bias in the Loop: How Humans Evaluate AI-Generated Suggestions*, Harvard Data Science Review, avril 2026.
+- Niederhoffer et al., *AI-Generated « Workslop » Is Destroying Productivity*, Harvard Business Review, septembre 2025.
+- Harold J. Leavitt, *Applied Organizational Change in Industry*, 1965.
+- Microsoft, *2026 Work Trend Index*, mai 2026.
+- MIT NANDA, *The GenAI Divide: State of AI in Business 2025*, août 2025.
+- Fortune, *Nearly a third of workers admit to sabotaging their company's AI*, 30 juillet 2026.
+- Mind RH, *Maif pledges to preserve jobs and reinvest AI productivity gains*, mai 2026.
+- Madeleine Clare Elish, *Moral Crumple Zones*, Engaging Science, Technology, and Society, 2019.
+- Google DeepMind, *Intelligent AI Delegation*, février 2026.

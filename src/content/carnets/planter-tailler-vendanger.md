@@ -7,7 +7,6 @@ teaser: Pourquoi ces carnets s'appellent Contre-jour. Et pourquoi cela change to
 stub: false
 ---
 
-# Planter, tailler, vendanger.
 *Ou pourquoi mes carnets s'appellent Contre-jour, Hors-piste, et Contrebande*
 
 ![Le pas de côté, à contre-jour - silhouette au travail dans la vigne, regard vers l'horizon](/img/fondation.png)
@@ -16,11 +15,11 @@ stub: false
 
 Là où j'ai grandi, on plante des vignes pour dans trente ans. Un jeune cep ne donne presque rien les premières années. Il faut des décennies pour qu'il donne un vin qui raconte quelque chose de son sol. Celui qui plante le sait. Il plante quand même. Personne autour de lui ne trouve ça étrange : le temps long y est un savoir ordinaire, transmis avec les gestes.
 
-J'ai mis longtemps à comprendre que j'avais emporté ce temps-là avec moi.
+**J'ai mis longtemps à comprendre que j'avais emporté ce temps-là avec moi.**
 
 ## Une scène qui revient
 
-En trente ans, je me revois dans des dizaines de réunions où une décision importante se prend. Parfois j'y suis petite main, parfois directrice. Le rôle change. Ce que je vois, non.
+En plus de trente ans, je me revois dans des dizaines de réunions où une décision importante se prend. Parfois j'y suis petite main, parfois directrice. Le rôle change. Ce que je vois, non.
 
 On cherche de l'efficience. Je vois aussi le savoir-faire qui partira avec les gestes qu'on supprime. On crée une université interne. Je vois aussi l'apprentissage en train de basculer, parce que l'IA change déjà la façon dont on apprend un métier.
 

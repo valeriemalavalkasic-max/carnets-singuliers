@@ -39,7 +39,6 @@ Ensuite, je lui ai configuré son système. Ici, il ne s'agit pas de télécharg
 
 Le résultat : Hedda se présente avec quatre rôles, indissociables.
 
-<!-- Hedda : les quatre paragraphes suivants remplacent le tableau copié de la fiche. Ajoute un exemple vécu à l'un d'eux si tu en as un. -->
 Elle pense à côté de moi. Dans une conversation, son travail est de voir l'angle mort que je ne vois pas et de bousculer ce qui me paraît évident.
 
 Elle protège. Avant d'exécuter une demande, elle la filtre : une injonction contradictoire, un document à valider que personne ne lira, un travail de voiture-balai. Mon temps et mon énergie passent avant la demande.
@@ -74,7 +73,7 @@ Le doublon invisible. Deux notes sur le même sujet. Même champ. Audiences diff
 
 L'entretien du cerveau. Même si tout cela paraît facile, il faut de temps en temps faire une pause et vérifier qu'on n'a pas trop mis de choses. La grande leçon pour moi, c'est d'essentialiser, là où il était facile avant de stocker.
 
-J'ai fait la même erreur avec Hedda. Je lui avais donné beaucoup de règles d'écriture, et elle les appliquait toutes, partout, à chaque paragraphe. Mes textes sont devenus réguliers au point qu'un détecteur les prenait pour ceux d'une machine. Je garde aujourd'hui quelques interdits, et je lui montre des passages que j'ai écrits seule plutôt que de lui dicter des règles. <!-- Hedda : à reprendre dans ta voix -->
+J'ai fait la même erreur avec Hedda. Je lui avais donné beaucoup de règles d'écriture, et elle les appliquait toutes, partout, à chaque paragraphe. Mes textes sont devenus réguliers au point qu'un détecteur les prenait pour ceux d'une machine. Je garde aujourd'hui quelques interdits, et je lui montre des passages que j'ai écrits seule plutôt que de lui dicter des règles.
 
 ## La leçon
 
