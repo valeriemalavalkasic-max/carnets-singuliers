@@ -7,6 +7,7 @@ interface Props {
   description?: string;
   ogImage?: string;
   type?: 'website' | 'article';
+  jsonLd?: object;
 }
 
 const {
@@ -43,11 +44,11 @@ const fullTitle = title === SITE.name ? title : `${title} — ${SITE.name}`;
     <meta name="twitter:description" content={description}>
     <meta name="twitter:image" content={new URL(ogImage, Astro.site ?? SITE.url).toString()}>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;1,400;1,500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-
     <link rel="alternate" type="application/rss+xml" title={`${SITE.name} — Flux RSS`} href="/rss.xml">
+
+    { Astro.props.jsonLd && (
+      <script type="application/ld+json" set:html={JSON.stringify(Astro.props.jsonLd)} />
+    )}
   </head>
   <body>
     <slot />
