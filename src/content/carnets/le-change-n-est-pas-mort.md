@@ -1,9 +1,15 @@
 ---
-title: "Le change n'est pas mort, mais la conduite du changement l'est"
+title: Le change n'est pas mort, mais la conduite du changement si
 category: hors-piste
 date: 2026-11-04
-tags: [ia, changement, confiance, travail, usage-cache, eaux-profondes]
-teaser: "57 % des salariés disent avoir déjà caché qu'ils utilisaient l'IA. Le changement a eu lieu en cachette. Un billet sur la courbe du deuil, une courbe de confiance, et ce que l'aviation sait déjà."
+tags:
+  - ia
+  - changement
+  - confiance
+  - travail
+  - usage-cache
+  - eaux-profondes
+teaser: 57 % des salariés disent avoir déjà caché qu'ils utilisaient l'IA. Le changement a eu lieu en cachette. Un billet sur la courbe du deuil, une courbe de confiance, et ce que l'aviation sait déjà.
 stub: false
 ---
 ## Un changement en cachette
