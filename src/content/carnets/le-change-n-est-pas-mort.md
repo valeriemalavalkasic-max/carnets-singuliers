@@ -30,7 +30,15 @@ Se cacher ou en faire trop : aucune de ces deux conduites ne ressemble à de l
 
 J'ai donc cherché ce qui pourrait remplacer la courbe du deuil, et j'ai fini par en dessiner une autre, **une courbe de confiance**. Elle décrit l'organisation telle qu'on la perçoit à travers ses actes, et son axe horizontal compte des preuves au lieu de compter des semaines : si l'organisation ne fait rien, la courbe ne bouge pas, et une promesse non tenue la fait chuter plus vite qu'une promesse tenue ne la fait monter. 
 
-Pour ma part, je me situe entre le deuxième et le troisième palier. Il m'arrive de confier mes conversations et mes prompts à un expert, qui me renvoie une analyse un peu comme on reçoit un carnet de mauvaises notes, et j'ai appris que c'était la seule manière de progresser sur le temps long. Écrire ces carnets en fait sans doute partie.
+Cinq paliers la jalonnent, et chacun se reconnaît à ce qu'on voit :
+
+- **0. Défiance** : on cache. Personne ne dit comment il travaille vraiment.
+- **1. Test** : on avoue un petit usage, sans enjeu, pour voir ce qui se passe.
+- **2. Parole tenue** : l'entreprise a promis qu'avouer ne coûterait rien. Quelqu'un l'a fait, et il ne lui est rien arrivé.
+- **3. Réciprocité** : les deux côtés donnent. Les équipes montrent leurs vrais usages, l'entreprise dit où va le temps gagné.
+- **4. Co-régulation** : les règles se décident ensemble, et se révisent ensemble.
+
+Pour ma part, je me situe entre la parole tenue et la réciprocité, c'est-à-dire entre les paliers 2 et 3. Il m'arrive de confier mes conversations et mes prompts à un expert, qui me renvoie une analyse un peu comme on reçoit un carnet de mauvaises notes, et j'ai appris que c'était la seule manière de progresser sur le temps long. Écrire ces carnets en fait sans doute partie.
 
 ## Ce que l'aviation sait déjà
 
@@ -44,7 +52,7 @@ Les deux directions existent. Je ne sais pas laquelle prendra mon entreprise, ni
 
 ## Pour aller plus loin
 
-*De la courbe du deuil à la courbe de confiance* est le deuxième numéro de la série Eaux profondes. Il détaille les cinq paliers et ce qui se voit à chacun, la leçon de l'aviation, cinq outils à essayer dès demain, et ce que je ne sais pas encore.
+*De la courbe du deuil à la courbe de confiance* est le deuxième numéro de la série Eaux profondes. Il va plus loin sur chaque palier, avec la leçon de l'aviation, cinq outils à essayer dès demain et ce que je ne sais pas encore.
 
 **[Le dossier complet (PDF, 14 pages, sources datées)](/carnets-singuliers/carnet-singuliers-valerie-malaval-eaux-profondes-02.pdf)**
 
